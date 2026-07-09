@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1183,
- "head": "44ae1f5d071ed84146caebddb8c35fcc993be5a3ced455e3b4b837bfc6bc6213",
+ "count": 1185,
+ "head": "5ee44e678784d36d18e8ad3dbed0aaee929bd08cc1806df113561bbdeb736087",
  "links": [
   {
    "i": 0,
@@ -8289,6 +8289,20 @@
    "seal": "ee3fd9994c32371d5a445d0bcce6ff20461a85e1f652e5e1042a33db8fa88a93",
    "prev": "ca9b8fd644a98720d7cf0f3162e28f55f52897f87a91a934b4d4a63b5b897b1c",
    "link": "44ae1f5d071ed84146caebddb8c35fcc993be5a3ced455e3b4b837bfc6bc6213"
+  },
+  {
+   "i": 1183,
+   "slug": "taravangian",
+   "seal": "fc2c680eebaff6f350d7018eba49f8bbc169006b671348d6673c0f81ddb6c2c9",
+   "prev": "44ae1f5d071ed84146caebddb8c35fcc993be5a3ced455e3b4b837bfc6bc6213",
+   "link": "113e4b729f5ce983a1ef89610488c477943d1edb1d2ed1193dca6c8654242fc8"
+  },
+  {
+   "i": 1184,
+   "slug": "nous",
+   "seal": "abbe335e72614e62bc6b6dd0920251b8092aebc2d5f8637239c0cdc653abbc67",
+   "prev": "113e4b729f5ce983a1ef89610488c477943d1edb1d2ed1193dca6c8654242fc8",
+   "link": "5ee44e678784d36d18e8ad3dbed0aaee929bd08cc1806df113561bbdeb736087"
   }
  ]
 }

@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1223,
- "head": "ae48bb5c47f905e505eeccb88defc407312478bc33710dca53af153a829a86f5",
+ "count": 1224,
+ "head": "baebad21cfc6f6a26c385d061597377eb08f2e978d8b0a75008617178176a048",
  "links": [
   {
    "i": 0,
@@ -8569,6 +8569,13 @@
    "seal": "c390731393acaaaeb93dd611d8368d59c6f470ce06733495fe28c322e058ac11",
    "prev": "f562bc9859751a7552d984fe2e7d49489b1efa581415bdd1330992bc0296182a",
    "link": "ae48bb5c47f905e505eeccb88defc407312478bc33710dca53af153a829a86f5"
+  },
+  {
+   "i": 1223,
+   "slug": "the-seeded-cross",
+   "seal": "46c41738ba0f26c9588d757c708ca31a1ac9000af0a51ba8244cccd8e56cde93",
+   "prev": "ae48bb5c47f905e505eeccb88defc407312478bc33710dca53af153a829a86f5",
+   "link": "baebad21cfc6f6a26c385d061597377eb08f2e978d8b0a75008617178176a048"
   }
  ]
 }

@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1204,
- "head": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc",
+ "count": 1206,
+ "head": "59c8b5a1d87cfe614ebc4b0605161e22ed67c443752fd9f4bdaa8f0292edee7c",
  "links": [
   {
    "i": 0,
@@ -8436,6 +8436,20 @@
    "seal": "38bbe2f60e72f487e00d799cd68023d4dedf3c4008b295803cb4b1f667d1be91",
    "prev": "e023e77fc79ae54abb44bb304b4da562f78a2a4b9b1445a1f5f4a3a92b7183bf",
    "link": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc"
+  },
+  {
+   "i": 1204,
+   "slug": "the-fit-point",
+   "seal": "40cfbc2e6dc34d97cf7573ec1bd1a9a64b12acc4b281dbb39ab6eb73a45679c7",
+   "prev": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc",
+   "link": "40351cf7fc4c11f37302043a1fb3131aa90988b7698014cf81a72d74afdb1ccc"
+  },
+  {
+   "i": 1205,
+   "slug": "the-blind-vector",
+   "seal": "edc74619a3d8e57e1a55ef4d113032b514d429c31dd25f4645e2e520c844d3fa",
+   "prev": "40351cf7fc4c11f37302043a1fb3131aa90988b7698014cf81a72d74afdb1ccc",
+   "link": "59c8b5a1d87cfe614ebc4b0605161e22ed67c443752fd9f4bdaa8f0292edee7c"
   }
  ]
 }

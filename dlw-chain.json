@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1208,
- "head": "120f68a7c0e0b9d2819635bf4d151d5e991d351cffa51a72b8e71a28d1b54a62",
+ "count": 1211,
+ "head": "14af7ad94d88c90dcc1addf939fb054c866d3ada0fe630374a36ef6658e6ae4d",
  "links": [
   {
    "i": 0,
@@ -8464,6 +8464,27 @@
    "seal": "7fc63ae3947bc423a40ebb4e694443b2dde013c0f94981a917bd8386db31d76d",
    "prev": "f26dcc0ac68d0d8141c11463544f14132aa80c4cea57f71c86901ae26a2ddfcd",
    "link": "120f68a7c0e0b9d2819635bf4d151d5e991d351cffa51a72b8e71a28d1b54a62"
+  },
+  {
+   "i": 1208,
+   "slug": "the-word-silo",
+   "seal": "660d57b509be4604007adac7d34ab0fa9379526565998a039472127442dffadc",
+   "prev": "120f68a7c0e0b9d2819635bf4d151d5e991d351cffa51a72b8e71a28d1b54a62",
+   "link": "98e983854c4882796e389d1a50f9274bca7e2f2eb16cbe84f35a82eade509000"
+  },
+  {
+   "i": 1209,
+   "slug": "the-weight-of-a-word",
+   "seal": "0057cfb47fab06e83ecb241b0ef22fdf57e74c660203a4657b75f387669e0d40",
+   "prev": "98e983854c4882796e389d1a50f9274bca7e2f2eb16cbe84f35a82eade509000",
+   "link": "dfa4ba40b94663725a6532e500d4f5c98ebd18587bbc20b87d22a73285be061d"
+  },
+  {
+   "i": 1210,
+   "slug": "the-weightless-word",
+   "seal": "7391e598211ee95782300a06c45be1604c813c1abb1e265439b5e98b3133489d",
+   "prev": "dfa4ba40b94663725a6532e500d4f5c98ebd18587bbc20b87d22a73285be061d",
+   "link": "14af7ad94d88c90dcc1addf939fb054c866d3ada0fe630374a36ef6658e6ae4d"
   }
  ]
 }

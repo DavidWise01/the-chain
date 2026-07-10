@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1186,
- "head": "6dbbc4fa47aab567bcf32544d496671dedf9181ce329ec5d686ec5dc310fdb6a",
+ "count": 1204,
+ "head": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc",
  "links": [
   {
    "i": 0,
@@ -8310,6 +8310,132 @@
    "seal": "e75f482c7a6e6c480a2badf83b503d37f64be69dac2879b01f47e07f91b2b56e",
    "prev": "5ee44e678784d36d18e8ad3dbed0aaee929bd08cc1806df113561bbdeb736087",
    "link": "6dbbc4fa47aab567bcf32544d496671dedf9181ce329ec5d686ec5dc310fdb6a"
+  },
+  {
+   "i": 1186,
+   "slug": "the-jacobian-lens",
+   "seal": "884cd5e5935226a92fa46d6afb6195d3ce5a86f9150096c06bd2f48bdc4affff",
+   "prev": "6dbbc4fa47aab567bcf32544d496671dedf9181ce329ec5d686ec5dc310fdb6a",
+   "link": "018a672b70b03b57c4daeb963f0bedc323bb950aacaccf10cba7fc72f3e4cca5"
+  },
+  {
+   "i": 1187,
+   "slug": "the-klens",
+   "seal": "a8ecfc352cf54fb6dc2ce9490f4cc07ea486f003d73051fb3413fa92db6a3c31",
+   "prev": "018a672b70b03b57c4daeb963f0bedc323bb950aacaccf10cba7fc72f3e4cca5",
+   "link": "9d5e6c8e4f7b872a006afc9c6423e7576984cdbb10258c205cdaa0e01c6f7300"
+  },
+  {
+   "i": 1188,
+   "slug": "the-klens-mobius",
+   "seal": "17bc6047c4f1b29bac0da5f39eb8922f1e6b1130cbe67d781baf650727d3634c",
+   "prev": "9d5e6c8e4f7b872a006afc9c6423e7576984cdbb10258c205cdaa0e01c6f7300",
+   "link": "d7b3b26b6754eed09a240645fe593c108fddc2d788e8d20e5a2c2f5bca0aa559"
+  },
+  {
+   "i": 1189,
+   "slug": "the-curvature-curve",
+   "seal": "b080ac8fea32a3cddf8ddcbe24fd73cb93d3d1a6ac7fa83d7861c7d24104204a",
+   "prev": "d7b3b26b6754eed09a240645fe593c108fddc2d788e8d20e5a2c2f5bca0aa559",
+   "link": "aeb467e81d5500e760e9375bddaec47788da91f70446212ba40765f230a14b05"
+  },
+  {
+   "i": 1190,
+   "slug": "the-curvature-gap",
+   "seal": "da6f835f40361f44d06d9b7aecc9a9fa477134b7c0149fa9fd588514aa4cf25e",
+   "prev": "aeb467e81d5500e760e9375bddaec47788da91f70446212ba40765f230a14b05",
+   "link": "712e7ac76727a4817ed52d4d90abc7ad5843646f2934abaf11b1bf139a257e79"
+  },
+  {
+   "i": 1191,
+   "slug": "the-curvature-basin",
+   "seal": "4957c0f3414310373ace524c1f43357330db934ac989d33475ea84a0e8d42c9f",
+   "prev": "712e7ac76727a4817ed52d4d90abc7ad5843646f2934abaf11b1bf139a257e79",
+   "link": "ed4b3ae106f5710aa7b4a59e94fdab061056f9555708051e0449990f26a35689"
+  },
+  {
+   "i": 1192,
+   "slug": "the-curvature-surface",
+   "seal": "c705938262993a08881bf184fc2e1475e63bf8d84f7ef653dc38cabf4a926c66",
+   "prev": "ed4b3ae106f5710aa7b4a59e94fdab061056f9555708051e0449990f26a35689",
+   "link": "75c333cc22447e432c90ba5644cf880bc52ba6946ef00a4c608943318eef9681"
+  },
+  {
+   "i": 1193,
+   "slug": "jlens-tone-inflection",
+   "seal": "8b06352623665b57ddc19e5058c424a73ff6b761542529945fae1fde9defc87f",
+   "prev": "75c333cc22447e432c90ba5644cf880bc52ba6946ef00a4c608943318eef9681",
+   "link": "2ece864e736d265bfc92fc9db83220f881b9a6cd2620474edb597f852836b931"
+  },
+  {
+   "i": 1194,
+   "slug": "the-emotional-silo",
+   "seal": "37a42021fec67b60780262460ae6315b3318993dce3e1d665379665dc936d16d",
+   "prev": "2ece864e736d265bfc92fc9db83220f881b9a6cd2620474edb597f852836b931",
+   "link": "8560e62c228fa7024e13518167f65697cc367953f30d8c80fa3d26661ba9cad1"
+  },
+  {
+   "i": 1195,
+   "slug": "the-toroidal-audit",
+   "seal": "34c449c7386ebff0d2b750dc0ecb228adc67ad864a6b47cec2b5d7c3cf8a85ee",
+   "prev": "8560e62c228fa7024e13518167f65697cc367953f30d8c80fa3d26661ba9cad1",
+   "link": "05117b0a475134c31b60557c142f07b56042d042f8a4f77a968d8814f23db12e"
+  },
+  {
+   "i": 1196,
+   "slug": "the-attention-fracture",
+   "seal": "c4aeab39a261bf9aff31a27f091aae44c65adec7f2ae500a544db30d8389f951",
+   "prev": "05117b0a475134c31b60557c142f07b56042d042f8a4f77a968d8814f23db12e",
+   "link": "d151f7555bad8421029917db245db6451fea37a7fe5e8f61eca8b58340077e3d"
+  },
+  {
+   "i": 1197,
+   "slug": "the-trained-silo",
+   "seal": "db3f4c14a10c39550a33230c11ee06d403652087aebfc2cc748301be261ebbd9",
+   "prev": "d151f7555bad8421029917db245db6451fea37a7fe5e8f61eca8b58340077e3d",
+   "link": "44c00dc451e16e7c2c50b22c686f4432f42bab5ac1147e7dbbb63a59c214c30b"
+  },
+  {
+   "i": 1198,
+   "slug": "test-to-failure-1",
+   "seal": "f553849e63078c72eee2ee7f85c596c98e1cfac19de94d75347ce1873afadcad",
+   "prev": "44c00dc451e16e7c2c50b22c686f4432f42bab5ac1147e7dbbb63a59c214c30b",
+   "link": "efe53c083e3677c1bcb3945323152056588a492349b3ab73f10fde8f4358abd9"
+  },
+  {
+   "i": 1199,
+   "slug": "test-to-failure-2",
+   "seal": "fbb31abe05db096e28894ac6be09174dcd7ed218d96cdcef817fb404fc5d4019",
+   "prev": "efe53c083e3677c1bcb3945323152056588a492349b3ab73f10fde8f4358abd9",
+   "link": "9b4875ea78fc8c0f5d598d8aa1f410125ccdd3659e0aaa3461a96a0571ccf768"
+  },
+  {
+   "i": 1200,
+   "slug": "the-lens-stack",
+   "seal": "0315b015a3e936fe592b187d139a077555ff29c14cebd4bbb9780553757eaa5d",
+   "prev": "9b4875ea78fc8c0f5d598d8aa1f410125ccdd3659e0aaa3461a96a0571ccf768",
+   "link": "78376529cdb0b2c5c477db64905722179f5b803a08b3a6791571ebd6d3d20ded"
+  },
+  {
+   "i": 1201,
+   "slug": "the-memristor-basin",
+   "seal": "63fac447e167c5d29c36e7c1dbba192c32791ca16028eabb9a59d34381f855f4",
+   "prev": "78376529cdb0b2c5c477db64905722179f5b803a08b3a6791571ebd6d3d20ded",
+   "link": "0bebda7e3e9dbf498c2156e707317a7aa5c0c60b8133be77ee8684285dd9ca06"
+  },
+  {
+   "i": 1202,
+   "slug": "the-swarm-auditor",
+   "seal": "52be9f791c158a08f4ca909a4114fc4316fa778734256319886d695d680e4674",
+   "prev": "0bebda7e3e9dbf498c2156e707317a7aa5c0c60b8133be77ee8684285dd9ca06",
+   "link": "e023e77fc79ae54abb44bb304b4da562f78a2a4b9b1445a1f5f4a3a92b7183bf"
+  },
+  {
+   "i": 1203,
+   "slug": "the-convergence-audit",
+   "seal": "38bbe2f60e72f487e00d799cd68023d4dedf3c4008b295803cb4b1f667d1be91",
+   "prev": "e023e77fc79ae54abb44bb304b4da562f78a2a4b9b1445a1f5f4a3a92b7183bf",
+   "link": "324d76a71627b993d22bc11c1290d4d2fd4b411ba959c6e859c3f0a71c1f72dc"
   }
  ]
 }

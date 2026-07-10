@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1206,
- "head": "59c8b5a1d87cfe614ebc4b0605161e22ed67c443752fd9f4bdaa8f0292edee7c",
+ "count": 1207,
+ "head": "f26dcc0ac68d0d8141c11463544f14132aa80c4cea57f71c86901ae26a2ddfcd",
  "links": [
   {
    "i": 0,
@@ -8450,6 +8450,13 @@
    "seal": "edc74619a3d8e57e1a55ef4d113032b514d429c31dd25f4645e2e520c844d3fa",
    "prev": "40351cf7fc4c11f37302043a1fb3131aa90988b7698014cf81a72d74afdb1ccc",
    "link": "59c8b5a1d87cfe614ebc4b0605161e22ed67c443752fd9f4bdaa8f0292edee7c"
+  },
+  {
+   "i": 1206,
+   "slug": "the-focal-word",
+   "seal": "f397d05b7550678e5bcb58a50d28c1bc1947c476de40ea9235f326e7c7fd4d05",
+   "prev": "59c8b5a1d87cfe614ebc4b0605161e22ed67c443752fd9f4bdaa8f0292edee7c",
+   "link": "f26dcc0ac68d0d8141c11463544f14132aa80c4cea57f71c86901ae26a2ddfcd"
   }
  ]
 }

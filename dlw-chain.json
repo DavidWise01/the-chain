@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1241,
- "head": "bdd6e9edea308a3cb631c2d97d442a56bd76590aa35cc836928860cbf5d39de9",
+ "count": 1245,
+ "head": "41b239fb098c8e3868bd4675208af758f4dc573f4337c48ea01c7daf0e1104fa",
  "links": [
   {
    "i": 0,
@@ -8695,6 +8695,34 @@
    "seal": "bbdf27920f750c3c4b21e33ac69a4e2e1234df85b9c3d71c378eb1c0cabea4de",
    "prev": "c8bd0655bce66145db61397b16c1be09c8e2f5ceeb9fa7ebe08c3ae14509afcb",
    "link": "bdd6e9edea308a3cb631c2d97d442a56bd76590aa35cc836928860cbf5d39de9"
+  },
+  {
+   "i": 1241,
+   "slug": "the-three-that-complete",
+   "seal": "c48264dcf2c46aee0c63bcf01a8753f5246b327beba809db98d8cf76d702ae36",
+   "prev": "bdd6e9edea308a3cb631c2d97d442a56bd76590aa35cc836928860cbf5d39de9",
+   "link": "1e3831c05090e24cbf7f92698ec1d31c6314aa825e35a84cc91ec35ab0d4a178"
+  },
+  {
+   "i": 1242,
+   "slug": "nim-the-last-matchstick",
+   "seal": "3f032e21274f276f2928708ba9d33fcc2120b6af9cdef329b374c40b865ab7fa",
+   "prev": "1e3831c05090e24cbf7f92698ec1d31c6314aa825e35a84cc91ec35ab0d4a178",
+   "link": "34e4a51e72c7764a7fc7160bb2c5bcd0c04a364549a2d76252a5827a1b4aacde"
+  },
+  {
+   "i": 1243,
+   "slug": "no-ladder-out",
+   "seal": "a3086bb6780237d0e35749905a80e860e4f1c9133a11252fc262df67f1e400f7",
+   "prev": "34e4a51e72c7764a7fc7160bb2c5bcd0c04a364549a2d76252a5827a1b4aacde",
+   "link": "ddd4247d9e3d8084834409f72fb400cc7dac46597cf78b1c9097bb7f6bd77c88"
+  },
+  {
+   "i": 1244,
+   "slug": "one-potato-two-potato",
+   "seal": "d4dc8760300459557449e398189a829eb5867b35c309903176ec57d11a58ce28",
+   "prev": "ddd4247d9e3d8084834409f72fb400cc7dac46597cf78b1c9097bb7f6bd77c88",
+   "link": "41b239fb098c8e3868bd4675208af758f4dc573f4337c48ea01c7daf0e1104fa"
   }
  ]
 }

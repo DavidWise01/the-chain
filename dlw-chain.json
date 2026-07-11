@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1235,
- "head": "083796faa8ededd8870a3c00bcb8d0f7c8e5c527cae1f7165f525f0802171891",
+ "count": 1239,
+ "head": "bd461e5908c0b11ac61d2ec1eb3e800ab2683a29c546171f7573690ca8e99ee2",
  "links": [
   {
    "i": 0,
@@ -8653,6 +8653,34 @@
    "seal": "4d9c9ccc935e6e4e6142aedee2fd1ffa4d2bd37fdad865573896e1c1bad16598",
    "prev": "23dda54f755b4e6c17a227294f4af8bb85d1ec08ac49111d436c8e2c4d95d090",
    "link": "083796faa8ededd8870a3c00bcb8d0f7c8e5c527cae1f7165f525f0802171891"
+  },
+  {
+   "i": 1235,
+   "slug": "the-de-morgan-mirror",
+   "seal": "9e89dcb85f0c11114300a4516f3f32f71b871a9e2d89964aec9cfc829d3df789",
+   "prev": "083796faa8ededd8870a3c00bcb8d0f7c8e5c527cae1f7165f525f0802171891",
+   "link": "e366c3797791a84b369975ed07a9a16982f8cefced3fca50efe6d2fba5ee3e18"
+  },
+  {
+   "i": 1236,
+   "slug": "the-legendre-dyad",
+   "seal": "8ac7cb7f0e80af381233a6001fa90e8abbf15b8e292e5952247c74589ac7f28e",
+   "prev": "e366c3797791a84b369975ed07a9a16982f8cefced3fca50efe6d2fba5ee3e18",
+   "link": "34907fd53d52141e09b4874e4821ca444515cb2b9e7203e2fc1008f375d415a3"
+  },
+  {
+   "i": 1237,
+   "slug": "the-conjugate",
+   "seal": "ee4d1a4f89693f65d05782451201a753d2454477e3c2942bdbc19dca6171c66d",
+   "prev": "34907fd53d52141e09b4874e4821ca444515cb2b9e7203e2fc1008f375d415a3",
+   "link": "2868b1bf73f0ddbea298bf797d72fe7600a71d7eca80ace9c75b4047f4324dd1"
+  },
+  {
+   "i": 1238,
+   "slug": "the-primal-dual",
+   "seal": "51de88be0c8ccd11f2b4b3546931c12c15b57e229efb749df354e48318940b51",
+   "prev": "2868b1bf73f0ddbea298bf797d72fe7600a71d7eca80ace9c75b4047f4324dd1",
+   "link": "bd461e5908c0b11ac61d2ec1eb3e800ab2683a29c546171f7573690ca8e99ee2"
   }
  ]
 }

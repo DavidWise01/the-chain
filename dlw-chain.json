@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1246,
- "head": "00e57768efa19a853637ff82a03f80cf81ce4b9aa6980384812e5d80efc5a031",
+ "count": 1247,
+ "head": "3b65ce7e6f6ae57cebff122bec1b85f9cf80c3c1d1f65c3953b0c748b120a4f3",
  "links": [
   {
    "i": 0,
@@ -8730,6 +8730,13 @@
    "seal": "159e266adf375e28e78454bc8e1ce9e334bf6c50db82a1f62f52ec6dbef7d466",
    "prev": "41b239fb098c8e3868bd4675208af758f4dc573f4337c48ea01c7daf0e1104fa",
    "link": "00e57768efa19a853637ff82a03f80cf81ce4b9aa6980384812e5d80efc5a031"
+  },
+  {
+   "i": 1246,
+   "slug": "the-lit-interval",
+   "seal": "71e0a361fca2870bdbaccbb7b0eacfd1451786165165e35217cb83de36227f48",
+   "prev": "00e57768efa19a853637ff82a03f80cf81ce4b9aa6980384812e5d80efc5a031",
+   "link": "3b65ce7e6f6ae57cebff122bec1b85f9cf80c3c1d1f65c3953b0c748b120a4f3"
   }
  ]
 }

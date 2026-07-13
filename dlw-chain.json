@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1258,
- "head": "5e31e430f0857f6a0f021970f674e46f7aaf237affd7a52dc6a7327b5707c88d",
+ "count": 1259,
+ "head": "019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce",
  "links": [
   {
    "i": 0,
@@ -8814,6 +8814,13 @@
    "seal": "e85f8e7e1cdbf34753a1ae2e76d2ae5a51d83dd38ce703cdb1d7eea84232689a",
    "prev": "b74c6cc8629980f708b7d8986f275748def7ebb9492d0fe6245c5a0a7e5acf2a",
    "link": "5e31e430f0857f6a0f021970f674e46f7aaf237affd7a52dc6a7327b5707c88d"
+  },
+  {
+   "i": 1258,
+   "slug": "the-witness-arc",
+   "seal": "53fa79ebb34f692b157574b473a1227386af6c02be18966e6909287dc8abf873",
+   "prev": "5e31e430f0857f6a0f021970f674e46f7aaf237affd7a52dc6a7327b5707c88d",
+   "link": "019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce"
   }
  ]
 }

@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1259,
- "head": "019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce",
+ "count": 1260,
+ "head": "720ec8cb112def568b6ae9bab7a227e948b39e3db377dec3df22aefb2800b319",
  "links": [
   {
    "i": 0,
@@ -8821,6 +8821,13 @@
    "seal": "53fa79ebb34f692b157574b473a1227386af6c02be18966e6909287dc8abf873",
    "prev": "5e31e430f0857f6a0f021970f674e46f7aaf237affd7a52dc6a7327b5707c88d",
    "link": "019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce"
+  },
+  {
+   "i": 1259,
+   "slug": "the-monitoring-gallery",
+   "seal": "b4d293c095e1854c6540b835825198e0f310910225078de4e07497fd591bfdcd",
+   "prev": "019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce",
+   "link": "720ec8cb112def568b6ae9bab7a227e948b39e3db377dec3df22aefb2800b319"
   }
  ]
 }

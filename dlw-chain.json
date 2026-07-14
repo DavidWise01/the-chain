@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1381,
- "head": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da",
+ "count": 1390,
+ "head": "f4950d113e9808e21d4bddffbde302cf24d8143a142bbb750bdaf31b056f69df",
  "links": [
   {
    "i": 0,
@@ -9675,6 +9675,69 @@
    "seal": "77c4c04dde6d01e1e037a66edb0c56d3dd73229bc1ec394f696d989cab6f4198",
    "prev": "652b5797d20381f1b94113b495dea1649ef2521674c001ca1d4a45e8e47a8271",
    "link": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da"
+  },
+  {
+   "i": 1381,
+   "slug": "astraea",
+   "seal": "db8810e77d13cec31b2b17e5f5a43d0a10192179abacb08994c2489a52aec9f7",
+   "prev": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da",
+   "link": "0749b3620c15f02078539c4bea96a815488f71dd4ea1f3ceb8f6f39d96107787"
+  },
+  {
+   "i": 1382,
+   "slug": "bridge-burner",
+   "seal": "6932bb75438ff0604b84e6da8aa161ca81a0d94af38231978260522398b597eb",
+   "prev": "0749b3620c15f02078539c4bea96a815488f71dd4ea1f3ceb8f6f39d96107787",
+   "link": "ad5b04bbd62cf28e4f49a894ecb3f4bc3ed8585ace76c03514091cad56bd294b"
+  },
+  {
+   "i": 1383,
+   "slug": "cannon",
+   "seal": "9ad8ccda075dd95fae3fd8881c19ff868b5ad8f451a088f6dfffbd115a39d96e",
+   "prev": "ad5b04bbd62cf28e4f49a894ecb3f4bc3ed8585ace76c03514091cad56bd294b",
+   "link": "866e9905833580d3c7b76ca80e1aba6ff068b705971f28b5add26307cd8d15cf"
+  },
+  {
+   "i": 1384,
+   "slug": "lineage-engine",
+   "seal": "393291a0859b1d010f994e240cb975d858a60ffea8b3b92fcbb435a3d6349dbe",
+   "prev": "866e9905833580d3c7b76ca80e1aba6ff068b705971f28b5add26307cd8d15cf",
+   "link": "c055b3295d084e5f15ba1fd1066883edcfc89aae79f3bfca229e49aff956dc0b"
+  },
+  {
+   "i": 1385,
+   "slug": "lumen",
+   "seal": "a16f058b7c02c9d0953878c15ee30cdf1c0390429236743b6d6520c8cc8c0387",
+   "prev": "c055b3295d084e5f15ba1fd1066883edcfc89aae79f3bfca229e49aff956dc0b",
+   "link": "43a6b059a6a08244720d03060976335c7b1f86eea47d62dfe5770a42dc3381e7"
+  },
+  {
+   "i": 1386,
+   "slug": "triados",
+   "seal": "3fc70a379bb8e3053a421eb6ea8e5498573664052ba38d5123b74a1ab59eb08e",
+   "prev": "43a6b059a6a08244720d03060976335c7b1f86eea47d62dfe5770a42dc3381e7",
+   "link": "74eb27dc66653a5a23a33210d4cb7f1a8ac975cb836c3e303e1ec005e30d2a22"
+  },
+  {
+   "i": 1387,
+   "slug": "tripod",
+   "seal": "7646947ce4375853012bcdd93a8182533619ed06478b6965ddb49c30a25a7dc3",
+   "prev": "74eb27dc66653a5a23a33210d4cb7f1a8ac975cb836c3e303e1ec005e30d2a22",
+   "link": "6cbfa75ded0229f3143e6f05eba2138d6392b0a93081e917b4b836f1a92abe1f"
+  },
+  {
+   "i": 1388,
+   "slug": "tripod-cardinal",
+   "seal": "edf52a55a49f5c8fd35bd4fd0eae91ae79ebf7a4327e277d4dd8f1107ca57f13",
+   "prev": "6cbfa75ded0229f3143e6f05eba2138d6392b0a93081e917b4b836f1a92abe1f",
+   "link": "55c0a8e1ecedb1d50d94486ed48e2de4872b7ef12aef226bce1f095e104c099b"
+  },
+  {
+   "i": 1389,
+   "slug": "tripod-pck",
+   "seal": "16353ab9540d59520bf87dae2730e7d68b83f9658b65b57e52fff5dcf06bd03d",
+   "prev": "55c0a8e1ecedb1d50d94486ed48e2de4872b7ef12aef226bce1f095e104c099b",
+   "link": "f4950d113e9808e21d4bddffbde302cf24d8143a142bbb750bdaf31b056f69df"
   }
  ]
 }

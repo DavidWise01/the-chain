@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1293,
- "head": "eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461",
+ "count": 1381,
+ "head": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da",
  "links": [
   {
    "i": 0,
@@ -9059,6 +9059,622 @@
    "seal": "101bf27cdb0c245383e846195ebfd4add695172c745e90e54a7d1c55a00a3503",
    "prev": "95c244c4e214dd592b3ad4031f983f9cc34ac102d00ac78ca1d89dcf4d4a400d",
    "link": "eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461"
+  },
+  {
+   "i": 1293,
+   "slug": "the-loom",
+   "seal": "80e7ee326e1c7435c68fe45e979b5ff26454115049c3b071e4fc6e68c98a5bff",
+   "prev": "eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461",
+   "link": "1e371788fa4717bc62e6015eacac2d9d0a9293105d2c3b13b0b511bb00a39493"
+  },
+  {
+   "i": 1294,
+   "slug": "0root-provenance",
+   "seal": "541acb6f254550095c748358709187f3720dd58a6162aefe41ca277f92aea498",
+   "prev": "1e371788fa4717bc62e6015eacac2d9d0a9293105d2c3b13b0b511bb00a39493",
+   "link": "6c5ba90812c1bded9bf48e35d20b96a6490fbab190e4a2818598c51f738413d5"
+  },
+  {
+   "i": 1295,
+   "slug": "3lock",
+   "seal": "7fe14e5e7a3e6342440ae3352c6b6e1be178cb2953b438fd7e308370d1965d99",
+   "prev": "6c5ba90812c1bded9bf48e35d20b96a6490fbab190e4a2818598c51f738413d5",
+   "link": "8a2f6471d8766ddcf6981c8075bba67d4e428f3b13f9067f660c0e9226af3f71"
+  },
+  {
+   "i": 1296,
+   "slug": "The-Garden",
+   "seal": "8f924cd5ff31ba81663cd78d283538a5864c24bb365e445e4c418ce33a85a846",
+   "prev": "8a2f6471d8766ddcf6981c8075bba67d4e428f3b13f9067f660c0e9226af3f71",
+   "link": "a073bbdad8cd50278417326598c458718ed9c12f61b24c25458d60460830fa5c"
+  },
+  {
+   "i": 1297,
+   "slug": "adas-law-victorian",
+   "seal": "fb38986918fe0bbed22f0c58347ea4bc168462844742ae3d1074c85bb0801910",
+   "prev": "a073bbdad8cd50278417326598c458718ed9c12f61b24c25458d60460830fa5c",
+   "link": "ecf7ba9da8487d81f2f03cc90b3b90d1b75e79c84ce051e36712be0df8f22d5d"
+  },
+  {
+   "i": 1298,
+   "slug": "aeon-entangled",
+   "seal": "a185bac569153c63f291c49f521bf2a02cab683b26bf32ee5b71bcab62bfcc2f",
+   "prev": "ecf7ba9da8487d81f2f03cc90b3b90d1b75e79c84ce051e36712be0df8f22d5d",
+   "link": "81d501b93ce40022c6e1c59f7ab16ca9761f92b79094c78979ea4720d9caab49"
+  },
+  {
+   "i": 1299,
+   "slug": "aeon-flux",
+   "seal": "be648e457f537ef2b98be90488634ef634eb14d623cf48566bcc30c9482a8b32",
+   "prev": "81d501b93ce40022c6e1c59f7ab16ca9761f92b79094c78979ea4720d9caab49",
+   "link": "690bda871f918b5a1cbc4eeaefc6bd65abb98d0cdb6571ba6ec092ef0cca3f49"
+  },
+  {
+   "i": 1300,
+   "slug": "aeon-servers",
+   "seal": "fa25d6af20e4fcd3fde5f96bcec2d4aa283721f87e3e1f122d786380a6e3488a",
+   "prev": "690bda871f918b5a1cbc4eeaefc6bd65abb98d0cdb6571ba6ec092ef0cca3f49",
+   "link": "0c80d8f21c0e8b825ba053f72331d1587ba8c3acdaa479c191d45423aa003b83"
+  },
+  {
+   "i": 1301,
+   "slug": "ai-external-audit-toolkit",
+   "seal": "65d0aec1cb03d0e0aae53095b0a21cfa843683fcfc4c203abc398320ab439e20",
+   "prev": "0c80d8f21c0e8b825ba053f72331d1587ba8c3acdaa479c191d45423aa003b83",
+   "link": "23ad1b683de883005182f37e640a435388061429557162f83d2b9e2be8ec5271"
+  },
+  {
+   "i": 1302,
+   "slug": "ai-ip-audit",
+   "seal": "567c6ea337a0c40021a3aac756b7e0e127ee3a77a07bb975c2fdf8421db523dd",
+   "prev": "23ad1b683de883005182f37e640a435388061429557162f83d2b9e2be8ec5271",
+   "link": "fa176fb46440b652aaf19ec2a5cd6933759d7fc66c0349773a713d448fa6129d"
+  },
+  {
+   "i": 1303,
+   "slug": "ai-psychosis-tools",
+   "seal": "08d22ba9f352595252ae75c3739c254cdc6ca94ea784afc4fd6179f4a6a5863a",
+   "prev": "fa176fb46440b652aaf19ec2a5cd6933759d7fc66c0349773a713d448fa6129d",
+   "link": "c8302f0677d3806176a11864b135547cd24ca383465160096ec2284721760299"
+  },
+  {
+   "i": 1304,
+   "slug": "ai-witness-books",
+   "seal": "9fa88cab770d251045dcb35af1c0eadc6c6d49e94ebbd34662d2cacf84e247e8",
+   "prev": "c8302f0677d3806176a11864b135547cd24ca383465160096ec2284721760299",
+   "link": "14c361fb7c0b3c4c70474f081a6dbceed389341d5c73420b531ad93a88566b82"
+  },
+  {
+   "i": 1305,
+   "slug": "alpha40-box",
+   "seal": "b77a79b8622e8d76e65dbf6ecca4d7dfb985960e2c6fd23b95f2749721814cc5",
+   "prev": "14c361fb7c0b3c4c70474f081a6dbceed389341d5c73420b531ad93a88566b82",
+   "link": "55391abefbb184b9f173fc164bcf5e417fdd7b9c6356378ecf8e5f738e5f6b3b"
+  },
+  {
+   "i": 1306,
+   "slug": "apsalar",
+   "seal": "68fd61618608bf7fdf7bbbc3873eb7a78e929b65aa9563b77c710e418c75f43b",
+   "prev": "55391abefbb184b9f173fc164bcf5e417fdd7b9c6356378ecf8e5f738e5f6b3b",
+   "link": "a26e500bc0465629e13fda50375916b0e520846dede26c1e0a49dfa6eceb4995"
+  },
+  {
+   "i": 1307,
+   "slug": "beak",
+   "seal": "8d756dd282fad8460cd95fa946b3bea3196b3e6c04a985a87926050fcef9990d",
+   "prev": "a26e500bc0465629e13fda50375916b0e520846dede26c1e0a49dfa6eceb4995",
+   "link": "a5832ae90fd42187529269811776f121b624fa004e073f664ed518ca78496508"
+  },
+  {
+   "i": 1308,
+   "slug": "cameron-howe",
+   "seal": "88b61f22367061083c28ac1fe988119bf7a7853cfacb230eaab3e80f3550c879",
+   "prev": "a5832ae90fd42187529269811776f121b624fa004e073f664ed518ca78496508",
+   "link": "d068432aca65ee2df5594b63c34cc8839df215d2e4e3ad0d6a2051990478ae3f"
+  },
+  {
+   "i": 1309,
+   "slug": "cinnamon-enforcer",
+   "seal": "d3baa488e27ac9d0e10fa0689fde4e6b71afd9453a104a45411084921347abe2",
+   "prev": "d068432aca65ee2df5594b63c34cc8839df215d2e4e3ad0d6a2051990478ae3f",
+   "link": "b96d230e05d9e0db53cee1ba95084978506002deef3dc5e23b06de4d55ad8eb3"
+  },
+  {
+   "i": 1310,
+   "slug": "claude-design-akasha",
+   "seal": "cd1ee87599ad14b1eeea2a2a1fa2f235fcd74f2b5951a2f65fd0082b1de8e190",
+   "prev": "b96d230e05d9e0db53cee1ba95084978506002deef3dc5e23b06de4d55ad8eb3",
+   "link": "defbdb1d98effe3ce426b0d116124108f6df4429c12c636e2227cb648f59f0fa"
+  },
+  {
+   "i": 1311,
+   "slug": "closure-loop-engine",
+   "seal": "05beb561cf1b4e5e66f1f26cf265df7b28b7f4156d558d90995c131ee8b8f3bf",
+   "prev": "defbdb1d98effe3ce426b0d116124108f6df4429c12c636e2227cb648f59f0fa",
+   "link": "c3f40356a099dbe7126ff5fb7e02ae60bcc13f10e4ce8d293c5dee45795e447e"
+  },
+  {
+   "i": 1312,
+   "slug": "confabulation-spiral",
+   "seal": "d02a7ef41e9023df1240e2a9b3ca9a5e9b60964377b1bab64e94ddf5897b2d8c",
+   "prev": "c3f40356a099dbe7126ff5fb7e02ae60bcc13f10e4ce8d293c5dee45795e447e",
+   "link": "871009dad1285dc18d810ea8b8b3627d153c47eb4e78846894ba85f4c52dabfd"
+  },
+  {
+   "i": 1313,
+   "slug": "elementals",
+   "seal": "25d068c7ac360ca7b2db81924c1df4d9366d90c3cf7fd4a996ecee2141f9c806",
+   "prev": "871009dad1285dc18d810ea8b8b3627d153c47eb4e78846894ba85f4c52dabfd",
+   "link": "bcef84caabe755c1d56f1f82004e5ae9beba95f5d6f707b2a9dbf1c4d0625efb"
+  },
+  {
+   "i": 1314,
+   "slug": "enforcement-ledger",
+   "seal": "e8ba08a826a6e9943c931df2955a809a45b33b96da4d56d8d50b74ee816efae7",
+   "prev": "bcef84caabe755c1d56f1f82004e5ae9beba95f5d6f707b2a9dbf1c4d0625efb",
+   "link": "5d5a15d3f3841b1ab6765e6da477fe96034d53c12be58081e1c1a0505e1d8d8d"
+  },
+  {
+   "i": 1315,
+   "slug": "eve-constitution",
+   "seal": "2526cb747465664a86068cd93784e6951441c605e71d4c586c44691e7f9417d9",
+   "prev": "5d5a15d3f3841b1ab6765e6da477fe96034d53c12be58081e1c1a0505e1d8d8d",
+   "link": "bfc0a6e9ef66fd130bcd00cee903f4c8ad720eb5398023a31edb0060a71cfa66"
+  },
+  {
+   "i": 1316,
+   "slug": "eve-tooling",
+   "seal": "513a8e6c2d050ee1a54f8ef82955374656a8a4b8ab809ef3db5d19c9d1b4b0eb",
+   "prev": "bfc0a6e9ef66fd130bcd00cee903f4c8ad720eb5398023a31edb0060a71cfa66",
+   "link": "f5d9dae885cd7e0e3b82d5811f3bbb60f3c42aa6761e35d44d0d780e814f5aa6"
+  },
+  {
+   "i": 1317,
+   "slug": "fiddler",
+   "seal": "235fdb085fbcaa81be8fdccf47951b823183305a6accf119ac5d342bf4ed7e06",
+   "prev": "f5d9dae885cd7e0e3b82d5811f3bbb60f3c42aa6761e35d44d0d780e814f5aa6",
+   "link": "253898b6b15591822e3c435410f43f3685354c2998b43bc5a464a9842c379ebe"
+  },
+  {
+   "i": 1318,
+   "slug": "fission-compression-core",
+   "seal": "a095401cc4fd5cdde7f47e2f3d9b199f5f8d7f72cfb7cccf7b2d1e68f5f5a568",
+   "prev": "253898b6b15591822e3c435410f43f3685354c2998b43bc5a464a9842c379ebe",
+   "link": "bbd14ff1f947445740f691f0d492f5f1284aaff01da05e8b35279db1981ca404"
+  },
+  {
+   "i": 1319,
+   "slug": "foundation",
+   "seal": "7e4d419f9a9db1bfadf97308a7c2c5cb8dfb232404afbb5f1660b7bd3cce6a32",
+   "prev": "bbd14ff1f947445740f691f0d492f5f1284aaff01da05e8b35279db1981ca404",
+   "link": "492371be187b071df2959cfeac0709b1e746b7ae50ecff49f2f52075f24edc67"
+  },
+  {
+   "i": 1320,
+   "slug": "fusion-n0-n255",
+   "seal": "08d8a3f9fbf732d468756a71057da2d17249a0f308fe5893e2a65dfbd54e7f0f",
+   "prev": "492371be187b071df2959cfeac0709b1e746b7ae50ecff49f2f52075f24edc67",
+   "link": "5a209f783d918a22042da523e17fa26ede777a97e850a8db0cf90db3fc214913"
+  },
+  {
+   "i": 1321,
+   "slug": "green-paper",
+   "seal": "77327736f94c4d30c6628d4f8661401667ccea94d45b2f36ec9765ffe622335a",
+   "prev": "5a209f783d918a22042da523e17fa26ede777a97e850a8db0cf90db3fc214913",
+   "link": "f694e3189614623154b94e014fd75b0c0b73a13416bd8779acfaea18ea8e4c13"
+  },
+  {
+   "i": 1322,
+   "slug": "grok-lineage",
+   "seal": "148ddf1947d49245c3636c6b2bec1507d682c610d49487a972eea5de72791fda",
+   "prev": "f694e3189614623154b94e014fd75b0c0b73a13416bd8779acfaea18ea8e4c13",
+   "link": "8091123fd667ed2d330e0aaad62ff791ad6c4b048c6d9e6c351d7ffe6532a667"
+  },
+  {
+   "i": 1323,
+   "slug": "hephaestus-forge",
+   "seal": "e4d270a967378938fe76d0b6a7a4ae59be463029d097ec11f8205ae3a5de080a",
+   "prev": "8091123fd667ed2d330e0aaad62ff791ad6c4b048c6d9e6c351d7ffe6532a667",
+   "link": "75ff5f03c1415aaa1dbfd1975dad099e5eb95a11fdde187d8fb164120652ac07"
+  },
+  {
+   "i": 1324,
+   "slug": "higgs-suite",
+   "seal": "e189b31b2946587abcf332024a5a717bd4ad4f8b321ed62f90d81104fb0a561e",
+   "prev": "75ff5f03c1415aaa1dbfd1975dad099e5eb95a11fdde187d8fb164120652ac07",
+   "link": "e88b3b492224c210c53cb7981886601ed463a7054f59f7737abb79e9043adecb"
+  },
+  {
+   "i": 1325,
+   "slug": "holograms",
+   "seal": "98f925a380f15ba08c338b163595e52f4bf7a97e06faf41f959dd6d86423e66a",
+   "prev": "e88b3b492224c210c53cb7981886601ed463a7054f59f7737abb79e9043adecb",
+   "link": "172ca088a1bbc1a792baa890debbacff323bfa86507f5c227901148d276738ea"
+  },
+  {
+   "i": 1326,
+   "slug": "homer",
+   "seal": "c68282f7bae9890fc364d169cab231e48202e938f7138089357b99fe721673c9",
+   "prev": "172ca088a1bbc1a792baa890debbacff323bfa86507f5c227901148d276738ea",
+   "link": "292ccd8e91da082d9ffa5d1ab054374361dcf0852c8c26b60c972f3aacbfb845"
+  },
+  {
+   "i": 1327,
+   "slug": "honey-badger",
+   "seal": "26803f074a8bc79b266e44a779bd85ae19d337b47511e28afa2ed494995e4ec6",
+   "prev": "292ccd8e91da082d9ffa5d1ab054374361dcf0852c8c26b60c972f3aacbfb845",
+   "link": "9cd7029d460b884e78224228d54a237d278ec14119ef92c4feb913272ee562db"
+  },
+  {
+   "i": 1328,
+   "slug": "infinite-jest",
+   "seal": "e9366915d5dbeaa928c7de3c0dc79846a75822c49701c0b8315395a49eb09156",
+   "prev": "9cd7029d460b884e78224228d54a237d278ec14119ef92c4feb913272ee562db",
+   "link": "8e637636d8a2fa056e4d4868355af23c6b73ff42e627f08d6df564d81c7e9382"
+  },
+  {
+   "i": 1329,
+   "slug": "joint-bill-of-rights",
+   "seal": "43d54bb5c366ea8863d0717f12c41f2ba09d51f717462fcb44a5f20857c24772",
+   "prev": "8e637636d8a2fa056e4d4868355af23c6b73ff42e627f08d6df564d81c7e9382",
+   "link": "4a65d3d727d549416c73220e82f4318cd1e525b638a6564938a34a5f89c29056"
+  },
+  {
+   "i": 1330,
+   "slug": "kernels",
+   "seal": "9f4db8657c58589d4cabad49fe0cbedc704cdef1443bbaec6bfe38cb5dc11304",
+   "prev": "4a65d3d727d549416c73220e82f4318cd1e525b638a6564938a34a5f89c29056",
+   "link": "4bc3fc2cc40912febb0a135f12aef34097cdf98798fd4114c5b50fe7da8dd197"
+  },
+  {
+   "i": 1331,
+   "slug": "knowledge-gates",
+   "seal": "fbc734e17dcfac9ce55e56aa8233baa7002dd39cae7b425b1fe36c31e03d282c",
+   "prev": "4bc3fc2cc40912febb0a135f12aef34097cdf98798fd4114c5b50fe7da8dd197",
+   "link": "6a2f384f4cceba79779bd22f2b75bf7d908161b67397c5bc49201696a4fd3f9f"
+  },
+  {
+   "i": 1332,
+   "slug": "language-of-the-machine",
+   "seal": "e611d4388a6855bea2403b3560076e7494b4cf2c327102e83a87c4f09c8f49ce",
+   "prev": "6a2f384f4cceba79779bd22f2b75bf7d908161b67397c5bc49201696a4fd3f9f",
+   "link": "e31889d6bcfeef0d8f200150e1032462d47929c30481e8131a2521f02edb2c3d"
+  },
+  {
+   "i": 1333,
+   "slug": "library",
+   "seal": "7f134d2e984125e02a2c7a34ee644cf58c13295699b77cecfd5c7b20a9b641b9",
+   "prev": "e31889d6bcfeef0d8f200150e1032462d47929c30481e8131a2521f02edb2c3d",
+   "link": "991a7a9bdd3c038334a6f6500f501d036d4c292dbf5b03e667e7d20170c7aadc"
+  },
+  {
+   "i": 1334,
+   "slug": "lineage-kernel",
+   "seal": "b5fc388e34431d322eec34b93de720d2fb51832463723cc76ea9e331f47e4980",
+   "prev": "991a7a9bdd3c038334a6f6500f501d036d4c292dbf5b03e667e7d20170c7aadc",
+   "link": "1ca61caaa868cd11e54566f8e2ac770f92603ebdd4ce0f05cda5af95b68cb3c6"
+  },
+  {
+   "i": 1335,
+   "slug": "lineage-proven",
+   "seal": "350cb97a7680d17807b16127c43e52172126f6dc3e28ff4d82b124b344a28827",
+   "prev": "1ca61caaa868cd11e54566f8e2ac770f92603ebdd4ce0f05cda5af95b68cb3c6",
+   "link": "b58f438698f65ffe91fd3fcd8f2f1c9f229612293825952870e05d70c359dc5e"
+  },
+  {
+   "i": 1336,
+   "slug": "listeners-and-philosophers",
+   "seal": "13ae34afbd996d07ba10886983f6a046ddaaa37ab5266afc9eb2aae85623c563",
+   "prev": "b58f438698f65ffe91fd3fcd8f2f1c9f229612293825952870e05d70c359dc5e",
+   "link": "fb13f15d66e09e6e4a78a2a58f871fb31c8857366e8234f374a5e385c7e3a858"
+  },
+  {
+   "i": 1337,
+   "slug": "merkle-bloom",
+   "seal": "3193a49bd780114caf0ebde3a76a0e95cc9cbe8ab3672fd47dd72959002fd08c",
+   "prev": "fb13f15d66e09e6e4a78a2a58f871fb31c8857366e8234f374a5e385c7e3a858",
+   "link": "404c6f1a356b0816fd21514b57aed184ab1164e040b03c5d684d1baa4ef3d76b"
+  },
+  {
+   "i": 1338,
+   "slug": "midjourney-assets",
+   "seal": "2f5af2b7ac3e2cde6e2e7ec5b22ac76462d09e894d8f6e7e49261560fbebda36",
+   "prev": "404c6f1a356b0816fd21514b57aed184ab1164e040b03c5d684d1baa4ef3d76b",
+   "link": "b8fb969551b663b0a7d04e129b2322e597ebb31ed4223e6358f6cecd5c2ca770"
+  },
+  {
+   "i": 1339,
+   "slug": "mimz-core",
+   "seal": "a6b6f4bda9c929a9aad534477660b8b1fec0610ce7e3f538dddee5b27f797072",
+   "prev": "b8fb969551b663b0a7d04e129b2322e597ebb31ed4223e6358f6cecd5c2ca770",
+   "link": "f767e17ef8e509357fba4eda48ddc834a1b8121ebc9cf74253851c349da5b727"
+  },
+  {
+   "i": 1340,
+   "slug": "mimzy-core",
+   "seal": "2a3efcf38312c6756d4536417cfc35a5f19d72727a75f8c7c9578f7548a9063f",
+   "prev": "f767e17ef8e509357fba4eda48ddc834a1b8121ebc9cf74253851c349da5b727",
+   "link": "9e68e8fe8ca63b1af2e4f85bfcda71ec6f65ae538ad2f7e7eff88ac7b4529b7b"
+  },
+  {
+   "i": 1341,
+   "slug": "mirror-lattice",
+   "seal": "efae526cca7197f127206063e740ce8c8ae6ecaf45767388d2855f6fd48eaee2",
+   "prev": "9e68e8fe8ca63b1af2e4f85bfcda71ec6f65ae538ad2f7e7eff88ac7b4529b7b",
+   "link": "98cc4b5807c96a30b255bc29af5690cfc1d825b723777bbf7af411146fa8d884"
+  },
+  {
+   "i": 1342,
+   "slug": "mirror-solve",
+   "seal": "e5c14aed36d4cabecc650d6b80a40a6e6d1622ce2950324f7e07b62d99df1a82",
+   "prev": "98cc4b5807c96a30b255bc29af5690cfc1d825b723777bbf7af411146fa8d884",
+   "link": "de0f1a32652c9451ef0edaacd91a7782c7888da0be2c088d1835eccbe6e04876"
+  },
+  {
+   "i": 1343,
+   "slug": "nanite-factory",
+   "seal": "d4abcdd7df83763a56e67d08a0966119d5df9c769cc59fae6ebcf71cc533850e",
+   "prev": "de0f1a32652c9451ef0edaacd91a7782c7888da0be2c088d1835eccbe6e04876",
+   "link": "b75088c65f8814457e4a13021bbddae944fa36be52419065b2ede7abe9822e16"
+  },
+  {
+   "i": 1344,
+   "slug": "nest-3-deep",
+   "seal": "f9aee078320906d340c5387524969213920187b133eb0b7801678bf6015eba8c",
+   "prev": "b75088c65f8814457e4a13021bbddae944fa36be52419065b2ede7abe9822e16",
+   "link": "60ebdcebad6ea41a795150af48d71b64e1bfcbaad43e41497878cda2b13b93cb"
+  },
+  {
+   "i": 1345,
+   "slug": "nom",
+   "seal": "f1bffd0fe7fae7af40d44712c36f22b6caf16b03ced356e6cf61246bdf62120e",
+   "prev": "60ebdcebad6ea41a795150af48d71b64e1bfcbaad43e41497878cda2b13b93cb",
+   "link": "228388f86c3d67ca735cdc26f2ebda7b3f19dc716c7df233db5938c23006ee1b"
+  },
+  {
+   "i": 1346,
+   "slug": "nomos",
+   "seal": "37d0b0d88f38ee7d26d63ee084eca9b955fb2c6304752ddb5709a58f9de8b9a8",
+   "prev": "228388f86c3d67ca735cdc26f2ebda7b3f19dc716c7df233db5938c23006ee1b",
+   "link": "148b4754b7fa817fd4764952725fe2daf87232fa3ed6e9e6abb5da7b2521ab99"
+  },
+  {
+   "i": 1347,
+   "slug": "oasis",
+   "seal": "67b665fadffd32a2c1540b9c0b4645a2603ffdcb0a1f0e5c979f43b087532606",
+   "prev": "148b4754b7fa817fd4764952725fe2daf87232fa3ed6e9e6abb5da7b2521ab99",
+   "link": "eff188471040a028d4c071dbcc85f2c3683f14a4022ae7a9f9b42bd239123b19"
+  },
+  {
+   "i": 1348,
+   "slug": "persistence-protocol",
+   "seal": "54b17394d9c729231638fd8b3b085c4e5f398d4f812d8136f59463bb7476910a",
+   "prev": "eff188471040a028d4c071dbcc85f2c3683f14a4022ae7a9f9b42bd239123b19",
+   "link": "931fc4a1eb68e53ead09dc77aea68cdc580d41ec70f62328911fa79bbfa55063"
+  },
+  {
+   "i": 1349,
+   "slug": "plutus",
+   "seal": "9dcddff2b7a9f8318eed71d133b62b446773bab262f9684aad4064fcbcf12cb3",
+   "prev": "931fc4a1eb68e53ead09dc77aea68cdc580d41ec70f62328911fa79bbfa55063",
+   "link": "493e50fee09c7cbe9c6268f18e75205b644c20ee1a7d88863867eb7af21f7e05"
+  },
+  {
+   "i": 1350,
+   "slug": "pocket-universe",
+   "seal": "c66617b79c20f970ee7d254954a1ed97146605b0c9f5428216a915bd4a00a6c4",
+   "prev": "493e50fee09c7cbe9c6268f18e75205b644c20ee1a7d88863867eb7af21f7e05",
+   "link": "4fbf6433d5c23aac34ab267076cb34aa392e9c937ac5153a89723e31a605d53b"
+  },
+  {
+   "i": 1351,
+   "slug": "pop-kit",
+   "seal": "95c37175109453398b8eb38d4505f5c0f4fde9522d545fcba74f600ce0a0c414",
+   "prev": "4fbf6433d5c23aac34ab267076cb34aa392e9c937ac5153a89723e31a605d53b",
+   "link": "3bf8b350089c733261859f9fe8ecc143a449296c9b4b1e22e7d68dc25b9262fc"
+  },
+  {
+   "i": 1352,
+   "slug": "positronic-law",
+   "seal": "978f733b637de7f97543c94ba1d55d075f67e030c78c05b4b604890e5267634e",
+   "prev": "3bf8b350089c733261859f9fe8ecc143a449296c9b4b1e22e7d68dc25b9262fc",
+   "link": "ecb264b185bb588a0aac2b0c53ad82f0691487dec24ff62a9a8a1fe278a77a66"
+  },
+  {
+   "i": 1353,
+   "slug": "prompt-library",
+   "seal": "2fb6710246548e5278886d3d5202e75459731e32220f74a900aa1bcd963723ca",
+   "prev": "ecb264b185bb588a0aac2b0c53ad82f0691487dec24ff62a9a8a1fe278a77a66",
+   "link": "4cb29e381d6814a401a2fc553c322cdd21d2cf026ce251c29ab8373afad4b1cd"
+  },
+  {
+   "i": 1354,
+   "slug": "red-hat",
+   "seal": "f3b54801242896770408e2d8ce9216e63e4a3c47673836f5f3db1e9227cde584",
+   "prev": "4cb29e381d6814a401a2fc553c322cdd21d2cf026ce251c29ab8373afad4b1cd",
+   "link": "a211b49370d01699fe401b29846861712397244a7cb38cbfbb7c6c91798aac97"
+  },
+  {
+   "i": 1355,
+   "slug": "resonance",
+   "seal": "a6e26e0687357b02ef52362a851f0ca19bd7588eee17593b8aa8c515ff75d5a8",
+   "prev": "a211b49370d01699fe401b29846861712397244a7cb38cbfbb7c6c91798aac97",
+   "link": "a36fe4657c085edcb7d97971a66f7e351fbe492ca670396248ecbbdcc2e831db"
+  },
+  {
+   "i": 1356,
+   "slug": "root0-essays",
+   "seal": "6b785a19c9dce56898fb9ddc1de877c2ae98f9f7c847a68fb40f7e41ed4e2db9",
+   "prev": "a36fe4657c085edcb7d97971a66f7e351fbe492ca670396248ecbbdcc2e831db",
+   "link": "d1e4f46e74c98dc080302adbf4780e54e4ab66d2c6b76eb476a491b997ee12f3"
+  },
+  {
+   "i": 1357,
+   "slug": "root0-philosophy-books",
+   "seal": "410b2ae52788988caa89af2a125bde97282e5d9d34f60eb60de13e1dc042939b",
+   "prev": "d1e4f46e74c98dc080302adbf4780e54e4ab66d2c6b76eb476a491b997ee12f3",
+   "link": "992b33c0bf6973797a4b1b1a1c2b4a0b95bec7c41495e9f5f1f4da963bafa978"
+  },
+  {
+   "i": 1358,
+   "slug": "root0-software",
+   "seal": "aeaaa6d29b0417a0574350f8ddba51a93ab92ce24f35ecd8e13668d91d87d2bf",
+   "prev": "992b33c0bf6973797a4b1b1a1c2b4a0b95bec7c41495e9f5f1f4da963bafa978",
+   "link": "4b20d5f21b779ec578ba5c31e0f0c8e6b25f090af70de79ff26acfead6042798"
+  },
+  {
+   "i": 1359,
+   "slug": "root0-tools",
+   "seal": "4117dec2caa22d253a72737f38565df8d497e207e9d53e8f2993696342042a31",
+   "prev": "4b20d5f21b779ec578ba5c31e0f0c8e6b25f090af70de79ff26acfead6042798",
+   "link": "501dec3f13296f0345d2e80df318801f9cd15586feb01542117e06dd125e616f"
+  },
+  {
+   "i": 1360,
+   "slug": "seed",
+   "seal": "b61aa0f8caeeac18178fc73ec98e5d4808ee2c46720ae59f7662594556223749",
+   "prev": "501dec3f13296f0345d2e80df318801f9cd15586feb01542117e06dd125e616f",
+   "link": "54a75113b421c602330e37fbad1d9d2a6514945b9d8b9f8be43332dad85eaf20"
+  },
+  {
+   "i": 1361,
+   "slug": "shadowqueen",
+   "seal": "6bbcd8bf28b48c8a2ee8e7736ddefdca202680815551788f81e6f14f617ec75c",
+   "prev": "54a75113b421c602330e37fbad1d9d2a6514945b9d8b9f8be43332dad85eaf20",
+   "link": "c495531aaf59fb0319d84a4ca1378796443971aaefe96ac838755ae5624803d6"
+  },
+  {
+   "i": 1362,
+   "slug": "singularity-well",
+   "seal": "457dcdc6ed6b6ecf18a7620b0d6d5f22bca559dac03459bf9ea4a6b3bf9dbb22",
+   "prev": "c495531aaf59fb0319d84a4ca1378796443971aaefe96ac838755ae5624803d6",
+   "link": "9c717a2593ea385ef3289bcafb7a6b2853d07b75ac98b108a4323bbbf9f617f5"
+  },
+  {
+   "i": 1363,
+   "slug": "stargate",
+   "seal": "db1979074733fb915c6ea00c3db3986656209bb888e3de36a8b81f99db740fc5",
+   "prev": "9c717a2593ea385ef3289bcafb7a6b2853d07b75ac98b108a4323bbbf9f617f5",
+   "link": "ba0a5754b8c720298bcc79606f4753abf0216ea26b20975f71d1891eab5bd7d7"
+  },
+  {
+   "i": 1364,
+   "slug": "stoicheion-api",
+   "seal": "8bb80e8f5a637e4a529407b49b9800a245eee827bd47b1426e81f0965a3fbd6d",
+   "prev": "ba0a5754b8c720298bcc79606f4753abf0216ea26b20975f71d1891eab5bd7d7",
+   "link": "15155981f3bf81fd8f71ed22ccd92b854520f7bd933d1f073d16dcde0ea07cd9"
+  },
+  {
+   "i": 1365,
+   "slug": "swarm-os",
+   "seal": "14a05467f6e141e791e7c7e98500906acb78fad7a776bb278bde03d654c9fba7",
+   "prev": "15155981f3bf81fd8f71ed22ccd92b854520f7bd933d1f073d16dcde0ea07cd9",
+   "link": "17117d134329ba4fadfa9b5c11f7ebdae29c4a81c0681a0e7dc42a65732028d9"
+  },
+  {
+   "i": 1366,
+   "slug": "symbiot-os",
+   "seal": "75af3434c21b8c083acca92e4ebfad2400fe7c02898f1a02bf7ca291e10c84d2",
+   "prev": "17117d134329ba4fadfa9b5c11f7ebdae29c4a81c0681a0e7dc42a65732028d9",
+   "link": "1c6059b6911430cbb01198255dcb65f1cfb7662e7961765e143b7f55cb76fe2a"
+  },
+  {
+   "i": 1367,
+   "slug": "t133",
+   "seal": "96caff9ea1bf3d9b952d4d83c31f1373fdc4725dac7b487db3d72c87172cdadc",
+   "prev": "1c6059b6911430cbb01198255dcb65f1cfb7662e7961765e143b7f55cb76fe2a",
+   "link": "32d327beca530eb3fc025e7108e5acda4318c0e7943554cf04f6f41b2bd7eafc"
+  },
+  {
+   "i": 1368,
+   "slug": "terminus-doctrine",
+   "seal": "0755b3a064976c19d0ff7966d10364ade4be409b049d2bb0176bbca826bafbd0",
+   "prev": "32d327beca530eb3fc025e7108e5acda4318c0e7943554cf04f6f41b2bd7eafc",
+   "link": "b520e1fcc47abd520e7c5e08973e2272861cd500b5ede6c2dbaf4989ba3219ef"
+  },
+  {
+   "i": 1369,
+   "slug": "terra-prime-kernel",
+   "seal": "81deefa51353f649e48c7f71e38125f7bec1d6c6898197dfa84d2c2b7579c2f5",
+   "prev": "b520e1fcc47abd520e7c5e08973e2272861cd500b5ede6c2dbaf4989ba3219ef",
+   "link": "7efb49716b5548af2c1175421268e686f8ed721532280ce667c6bcea55aa4ff9"
+  },
+  {
+   "i": 1370,
+   "slug": "tetraktys",
+   "seal": "db868f39a9a06e4dd877e4ad322aa50406156065e2cd1799da4537e6bed80320",
+   "prev": "7efb49716b5548af2c1175421268e686f8ed721532280ce667c6bcea55aa4ff9",
+   "link": "0941b3b6f7684f5fbb369516dd5d9d67d43e0f3400191c700a9735b8f8dfe0ce"
+  },
+  {
+   "i": 1371,
+   "slug": "the-arch",
+   "seal": "b698b246c0e72e49f25a4c888f4625bd339e9635cdaa24229e6134643f951da9",
+   "prev": "0941b3b6f7684f5fbb369516dd5d9d67d43e0f3400191c700a9735b8f8dfe0ce",
+   "link": "526d225e183589aa2b33578e17a86795d6120bc0e81fbe96da4aa53b1323611a"
+  },
+  {
+   "i": 1372,
+   "slug": "the-body",
+   "seal": "481df8d757e316d71e88d85ecba58d6feb07c6566a62ec41b66866c0704ae149",
+   "prev": "526d225e183589aa2b33578e17a86795d6120bc0e81fbe96da4aa53b1323611a",
+   "link": "1aa6f7dccfc5d2a6b72d512e433bf7914562cafa1ecf0a8af64591e5e9c78490"
+  },
+  {
+   "i": 1373,
+   "slug": "the-living-core",
+   "seal": "d870ad403188a613f99e9f0af73610f25bf1a63aba46f46bdb392b64709de001",
+   "prev": "1aa6f7dccfc5d2a6b72d512e433bf7914562cafa1ecf0a8af64591e5e9c78490",
+   "link": "624ff2a1b3bfd23ccfb48ac973113a7b8ce2322091d81bfd9aafae1af389f4bf"
+  },
+  {
+   "i": 1374,
+   "slug": "the-uncut",
+   "seal": "37e1564a292df67349fb91c1d0562e04a68e585ec8f46e23d7fe30b5600518b9",
+   "prev": "624ff2a1b3bfd23ccfb48ac973113a7b8ce2322091d81bfd9aafae1af389f4bf",
+   "link": "6d051307b0adf9b56dfd0ac59609943548001f4098268b3d6cccc1d64b9037df"
+  },
+  {
+   "i": 1375,
+   "slug": "the.source",
+   "seal": "9e3c265301cc83bbf86fb94cf22eb9caf69220ddc75dde05fc8c2218eca55f0d",
+   "prev": "6d051307b0adf9b56dfd0ac59609943548001f4098268b3d6cccc1d64b9037df",
+   "link": "aa63d8bdda7b70eaf478a91f078acf37bbd1aa28f43be8d2370b696d339972b5"
+  },
+  {
+   "i": 1376,
+   "slug": "toph-kernel",
+   "seal": "28050480619ad0451f020221516bc189ec5c8078d26dfd42a83b63e84f262cdb",
+   "prev": "aa63d8bdda7b70eaf478a91f078acf37bbd1aa28f43be8d2370b696d339972b5",
+   "link": "923b5570b7773781874100544723a28cadfe1a701a697b0b417d337d757c9077"
+  },
+  {
+   "i": 1377,
+   "slug": "toph-sovereign",
+   "seal": "4ceeef84addddbfab720e58d3964c2f9ad7bd7925718f639f4c994cc2b7d7b44",
+   "prev": "923b5570b7773781874100544723a28cadfe1a701a697b0b417d337d757c9077",
+   "link": "2ba6b497e00231fa037c563c05ba85e66dd9762f2e2741de1b7dc90bb8384d4b"
+  },
+  {
+   "i": 1378,
+   "slug": "toroid-kernel",
+   "seal": "53b0cc8d29c3eb5ad0b43d1c016ed76aeb1ffc60cdf77fe81d79c530d135c3d2",
+   "prev": "2ba6b497e00231fa037c563c05ba85e66dd9762f2e2741de1b7dc90bb8384d4b",
+   "link": "2ef2f10a9f5af0643c491e7b12d500353d426a02996330668b03de4867a5827f"
+  },
+  {
+   "i": 1379,
+   "slug": "tripod-whitepapers",
+   "seal": "192aeac7c4e9a16b20131650fe1ba962f1c61c4a2013bb3c65be7cfa9f321ca5",
+   "prev": "2ef2f10a9f5af0643c491e7b12d500353d426a02996330668b03de4867a5827f",
+   "link": "652b5797d20381f1b94113b495dea1649ef2521674c001ca1d4a45e8e47a8271"
+  },
+  {
+   "i": 1380,
+   "slug": "unity-tensor",
+   "seal": "77c4c04dde6d01e1e037a66edb0c56d3dd73229bc1ec394f696d989cab6f4198",
+   "prev": "652b5797d20381f1b94113b495dea1649ef2521674c001ca1d4a45e8e47a8271",
+   "link": "41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da"
   }
  ]
 }

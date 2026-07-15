@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1400,
- "head": "1e89bc4ecf0114a1fd5ae5650af2d1316eb8dd5f9d4e01d52a4cb109161a23d4",
+ "count": 1405,
+ "head": "49024fcabf0167b52451950722e18d8e0c3c9f0b726cfbf113bc7f7c7330776e",
  "links": [
   {
    "i": 0,
@@ -9808,6 +9808,41 @@
    "seal": "5e3103d9726d02e94fa050fd708a316f354d03c5800f38a79f7446dfb523681a",
    "prev": "60d624281fa46dd88fc98e6e270a80f23023ad27e59be0213b2dbf6bdef5e0c0",
    "link": "1e89bc4ecf0114a1fd5ae5650af2d1316eb8dd5f9d4e01d52a4cb109161a23d4"
+  },
+  {
+   "i": 1400,
+   "slug": "the-inhibited-cortex",
+   "seal": "7fb13ce06e7941d70893425233aeb1ee20f7cf95a0129d76a721d4185f98b209",
+   "prev": "1e89bc4ecf0114a1fd5ae5650af2d1316eb8dd5f9d4e01d52a4cb109161a23d4",
+   "link": "90fc30baeb84e21c3dfc73833228895c21ad0e929d85e1c5c2e456ec610cb2c9"
+  },
+  {
+   "i": 1401,
+   "slug": "the-write-gate",
+   "seal": "709af1cc0c27eb206f01ca32d12af87eee487e71479f3fcc919009d70998fd8d",
+   "prev": "90fc30baeb84e21c3dfc73833228895c21ad0e929d85e1c5c2e456ec610cb2c9",
+   "link": "2a91cb2c006bdc795d40f48c65dac6f231a5eee25f33fbd160afed61e24b5d35"
+  },
+  {
+   "i": 1402,
+   "slug": "the-foot-on-the-pedal",
+   "seal": "97de38b66479bb4e73b89e02d09265d518ff281507cadf7e9884d1ba5023bcde",
+   "prev": "2a91cb2c006bdc795d40f48c65dac6f231a5eee25f33fbd160afed61e24b5d35",
+   "link": "557aa645f0f30aef7a067893ec0d3a0d012e889f1f745a3e43c9f3b19a64a224"
+  },
+  {
+   "i": 1403,
+   "slug": "the-thalamic-switchboard",
+   "seal": "e5f1c0e50a2e81ada70dfc0149d1971cc86bb160431ee63995cf597d8c7c5746",
+   "prev": "557aa645f0f30aef7a067893ec0d3a0d012e889f1f745a3e43c9f3b19a64a224",
+   "link": "b8c03ae042eb020b7e4709b39b3e99ba6323cd66e1c8ec2f9862e61802500091"
+  },
+  {
+   "i": 1404,
+   "slug": "the-empty-chair",
+   "seal": "66fc16eb405f9232449f26f5d6c99b0da75e37b7ef25fe43388ae250b4ae9bdc",
+   "prev": "b8c03ae042eb020b7e4709b39b3e99ba6323cd66e1c8ec2f9862e61802500091",
+   "link": "49024fcabf0167b52451950722e18d8e0c3c9f0b726cfbf113bc7f7c7330776e"
   }
  ]
 }

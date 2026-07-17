@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1405,
- "head": "49024fcabf0167b52451950722e18d8e0c3c9f0b726cfbf113bc7f7c7330776e",
+ "count": 1424,
+ "head": "f294a0a041ae7c733ce0fe838b8bd71cd37a35fefc852a778bc4816984704805",
  "links": [
   {
    "i": 0,
@@ -9843,6 +9843,139 @@
    "seal": "66fc16eb405f9232449f26f5d6c99b0da75e37b7ef25fe43388ae250b4ae9bdc",
    "prev": "b8c03ae042eb020b7e4709b39b3e99ba6323cd66e1c8ec2f9862e61802500091",
    "link": "49024fcabf0167b52451950722e18d8e0c3c9f0b726cfbf113bc7f7c7330776e"
+  },
+  {
+   "i": 1405,
+   "slug": "the-six-axis",
+   "seal": "bb2c7a24591f91b72a2332707693b279d5bdc2df38f7cd93094aded2dc27baf4",
+   "prev": "49024fcabf0167b52451950722e18d8e0c3c9f0b726cfbf113bc7f7c7330776e",
+   "link": "a32f9dbc91cb77c3ab5b499907f708edc7b611a512217e3ee78aee63b1bcc461"
+  },
+  {
+   "i": 1406,
+   "slug": "the-two-axis-grid",
+   "seal": "392770211d4f7ae6f8755c222c70ef7157733233f66e9ebba474d855e3eb0ff9",
+   "prev": "a32f9dbc91cb77c3ab5b499907f708edc7b611a512217e3ee78aee63b1bcc461",
+   "link": "d5dfdd37202847be449965d6fe0dc7240e5e349c69de7e45163a71d4a7c1ea46"
+  },
+  {
+   "i": 1407,
+   "slug": "the-tone-wrapper",
+   "seal": "4e1bb63fc1333abd4cb160f9e1dde7a745255dd59d9648ea627fddb6d8b8fabb",
+   "prev": "d5dfdd37202847be449965d6fe0dc7240e5e349c69de7e45163a71d4a7c1ea46",
+   "link": "88af3b93b217026274dc6db3b0aea6f5e2bb0dad5a33f1c590bf3cbff1a7c3c3"
+  },
+  {
+   "i": 1408,
+   "slug": "noir-operator",
+   "seal": "15030056694a6ffd921bebc3d82a9788bbe025b769c2619954c3ab8e70fb136e",
+   "prev": "88af3b93b217026274dc6db3b0aea6f5e2bb0dad5a33f1c590bf3cbff1a7c3c3",
+   "link": "646270753dcb3fb116572ce5f58f87722773c6dd0cf22efcc4665ea56940281e"
+  },
+  {
+   "i": 1409,
+   "slug": "the-sixth-board",
+   "seal": "dfabfb656adac2a9392f8e1a13ce31414275693ab1a38a427784df797a9cecab",
+   "prev": "646270753dcb3fb116572ce5f58f87722773c6dd0cf22efcc4665ea56940281e",
+   "link": "9d5f64faa96d75582376a62953e44880615c36e59ff799d2e29d7af7df0b9dcd"
+  },
+  {
+   "i": 1410,
+   "slug": "the-stabilizer",
+   "seal": "f7ff6e0e7582f073b489b099ade32d0a804045899bad31da83c5ce3421013b05",
+   "prev": "9d5f64faa96d75582376a62953e44880615c36e59ff799d2e29d7af7df0b9dcd",
+   "link": "193fc7f351b8c341c805ab349ae019544d3c471b98cda049d2455fffa7a99a43"
+  },
+  {
+   "i": 1411,
+   "slug": "the-fracton",
+   "seal": "dd78dd8a4b1ac57a8de1ff387d42b33c95352b9440d2495cc739b6c5578915b3",
+   "prev": "193fc7f351b8c341c805ab349ae019544d3c471b98cda049d2455fffa7a99a43",
+   "link": "df561db1a1c445cd0aefbb1821a1ce9dc89e04e785a73935f91da0a0256d54cb"
+  },
+  {
+   "i": 1412,
+   "slug": "the-alphabet-shape",
+   "seal": "818fc13628e6b80214eec07fae1a1530f3447d8838e9358a3eaac9f3a6203e2f",
+   "prev": "df561db1a1c445cd0aefbb1821a1ce9dc89e04e785a73935f91da0a0256d54cb",
+   "link": "d5983deb980e3c9d5ab5480e4d200b7a1df20a7cf3deff414597f5597780594e"
+  },
+  {
+   "i": 1413,
+   "slug": "micro-cobra",
+   "seal": "2820008d802096154bffb73089770815a230efffb1ecb5a9af81e446a1474cd6",
+   "prev": "d5983deb980e3c9d5ab5480e4d200b7a1df20a7cf3deff414597f5597780594e",
+   "link": "c3aaf0872984cab6fc231a85092019d31d5ff097b5e569121cd9a8d6835daa6a"
+  },
+  {
+   "i": 1414,
+   "slug": "the-light-operator",
+   "seal": "c4354c604e52995e940c0e435f7ef72e3c700121c035b347643ae7ee3ff443ce",
+   "prev": "c3aaf0872984cab6fc231a85092019d31d5ff097b5e569121cd9a8d6835daa6a",
+   "link": "9d6ba7b8ee9af6922fadf8fa81bc932a4fb69bb9c77ee48df42b877307d7b1dd"
+  },
+  {
+   "i": 1415,
+   "slug": "the-entrusted",
+   "seal": "88cce3d4710db7d6a6bb0339728a3d21c49a0593c2de177d6c0b97d53ba9db0e",
+   "prev": "9d6ba7b8ee9af6922fadf8fa81bc932a4fb69bb9c77ee48df42b877307d7b1dd",
+   "link": "70da5a738eb3a9c00faf981f1125cae02e85a39ed1d66289465ca27ffb4c9140"
+  },
+  {
+   "i": 1416,
+   "slug": "the-complete-hierarchy",
+   "seal": "474f4e92d7c893a9bf204dbc6cdffe745af664594068877f38d0c59f86906099",
+   "prev": "70da5a738eb3a9c00faf981f1125cae02e85a39ed1d66289465ca27ffb4c9140",
+   "link": "9d92412679904a063836092e1c38793341ece7fe97ca0c54ede2c8a123625c17"
+  },
+  {
+   "i": 1417,
+   "slug": "the-reverse-side",
+   "seal": "db25b33034a2ecbe415888563f34381086892fb821c5564a66591c2b8b00eb74",
+   "prev": "9d92412679904a063836092e1c38793341ece7fe97ca0c54ede2c8a123625c17",
+   "link": "cf7aada813a1fd7ea56ff89d1162a7727d57d1ee5c92092ee3984cbe70df9608"
+  },
+  {
+   "i": 1418,
+   "slug": "the-hood-study",
+   "seal": "c57ff5f262376918bb0d2b8d0a2521c256e77190f4b76bc2ad9ce6db0aa9c207",
+   "prev": "cf7aada813a1fd7ea56ff89d1162a7727d57d1ee5c92092ee3984cbe70df9608",
+   "link": "0335e07e02dcd1a55697594ab1f2e56e88a2c89e0150404bb9363da9b7b152c3"
+  },
+  {
+   "i": 1419,
+   "slug": "the-unlit-face",
+   "seal": "db744bbbb9e446c656ed6ce3aba84fb4abcce430be86ecdf5d512ffce5fed91a",
+   "prev": "0335e07e02dcd1a55697594ab1f2e56e88a2c89e0150404bb9363da9b7b152c3",
+   "link": "a4675dfecb43dc9f2a508a6cb058b4a81292823552b39f970e9454d381a8dd14"
+  },
+  {
+   "i": 1420,
+   "slug": "the-transformer-engine",
+   "seal": "dbd17a7cb556378b25ae0e9709dffdd22e0587ce8ccf9b568a2d23c4ba2e5f44",
+   "prev": "a4675dfecb43dc9f2a508a6cb058b4a81292823552b39f970e9454d381a8dd14",
+   "link": "9ade70fb6c13306e1ee78c279f35c7473cb57fa5769b448fac79944b9e1c4abd"
+  },
+  {
+   "i": 1421,
+   "slug": "the-untested-interior",
+   "seal": "4bbb5ade62aa0410e409a78b4ba49fb7f326c631aba55331cf38389727deac97",
+   "prev": "9ade70fb6c13306e1ee78c279f35c7473cb57fa5769b448fac79944b9e1c4abd",
+   "link": "108db3d019bc196328dbbd3b957e87db635ec5eef39e5cd08e10a67c270a71ef"
+  },
+  {
+   "i": 1422,
+   "slug": "big-g",
+   "seal": "b3ed3dabaea55f0035d9d95465bf84d2f6756a9bbd34dc39a15cd55586a654c0",
+   "prev": "108db3d019bc196328dbbd3b957e87db635ec5eef39e5cd08e10a67c270a71ef",
+   "link": "ed8d2b7946452cf18eccf05d1e2a14799791e589cc03aae21f47d53f9808fdde"
+  },
+  {
+   "i": 1423,
+   "slug": "the-un-cut",
+   "seal": "3ab54c857aa3cb50520273908db85122bc3078126cabc394935adb2df6f33836",
+   "prev": "ed8d2b7946452cf18eccf05d1e2a14799791e589cc03aae21f47d53f9808fdde",
+   "link": "f294a0a041ae7c733ce0fe838b8bd71cd37a35fefc852a778bc4816984704805"
   }
  ]
 }

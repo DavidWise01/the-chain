@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1427,
- "head": "71529eba5b23334c4e31452965f338b8f8819eaa2bd51749c620f90a169d7b23",
+ "count": 1431,
+ "head": "5cbf511193a0782e59acd13458cd21f3193bebee46cb3a76c2e467e873ab6441",
  "links": [
   {
    "i": 0,
@@ -9997,6 +9997,34 @@
    "seal": "58eb687bcc6de79dab52ceb9c1bfaa8f3e88da52de71ad59178371d9c6b20607",
    "prev": "c127b9c5e1d50257caae1bdc86ad4558e999173c1f113fcf7a84eb2ab88a923b",
    "link": "71529eba5b23334c4e31452965f338b8f8819eaa2bd51749c620f90a169d7b23"
+  },
+  {
+   "i": 1427,
+   "slug": "the-plumb-line",
+   "seal": "385a965be2f089d04258cf54b07e5d0b471f245a50f789e3e1c484d8d003c244",
+   "prev": "71529eba5b23334c4e31452965f338b8f8819eaa2bd51749c620f90a169d7b23",
+   "link": "81cb71d3f589e4b8b16f0cd183dcb51087f76a37949449801d6f224027ee70c0"
+  },
+  {
+   "i": 1428,
+   "slug": "the-quorum",
+   "seal": "119aad9bd8709f6e20226c5dc19de8aa1300e8c1196a0f030fc8b3e31f7b0f25",
+   "prev": "81cb71d3f589e4b8b16f0cd183dcb51087f76a37949449801d6f224027ee70c0",
+   "link": "adb67df17f0c9953e58006acdc033c55e339834d24577bf3de68396b541ebb59"
+  },
+  {
+   "i": 1429,
+   "slug": "the-tuning-glass",
+   "seal": "889f493fb4f2483da4527659d6d48783ecde8a12da315c168b7ecd5c93239095",
+   "prev": "adb67df17f0c9953e58006acdc033c55e339834d24577bf3de68396b541ebb59",
+   "link": "feef5c51d1e1fb3c7b2a9228b15418a32f58cd1826010e0dbc72cc4091f17057"
+  },
+  {
+   "i": 1430,
+   "slug": "the-sounding",
+   "seal": "6ea03db17c704e919cadf75814b25721a032b8150db5721fce251061e430f654",
+   "prev": "feef5c51d1e1fb3c7b2a9228b15418a32f58cd1826010e0dbc72cc4091f17057",
+   "link": "5cbf511193a0782e59acd13458cd21f3193bebee46cb3a76c2e467e873ab6441"
   }
  ]
 }

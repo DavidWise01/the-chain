@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1443,
- "head": "ebb82352e886bc1fc4306a3d79546bf3eee8195a908526b209cbbbf3556d59a2",
+ "count": 1445,
+ "head": "672a9bd5f158570e0ffe47b3378a6bd8042f44b32e5d7dcd516fce488937ebcb",
  "links": [
   {
    "i": 0,
@@ -10109,6 +10109,20 @@
    "seal": "3630cdd5765c69322dd131bc2bfa10dd049aa7029c79a7648fbbb569a2af9631",
    "prev": "9dbc0b6390074b0ded43d8780430c31eeebae45921f0db63d2ab5caa0a4a66a8",
    "link": "ebb82352e886bc1fc4306a3d79546bf3eee8195a908526b209cbbbf3556d59a2"
+  },
+  {
+   "i": 1443,
+   "slug": "the-mediator",
+   "seal": "74793bfff94110efe078da2774961bbfa63195c99cc1e041fe2179e697ca60a2",
+   "prev": "ebb82352e886bc1fc4306a3d79546bf3eee8195a908526b209cbbbf3556d59a2",
+   "link": "25f2d70fd71d9bf515d90a946f0b711aaf734d843de98fccb276e249f7eb73b2"
+  },
+  {
+   "i": 1444,
+   "slug": "model-functor-audit",
+   "seal": "96389ce63cd69ccd02fdceaca92fdc0bb2003c7e88d555b4a1404163ca6b92f7",
+   "prev": "25f2d70fd71d9bf515d90a946f0b711aaf734d843de98fccb276e249f7eb73b2",
+   "link": "672a9bd5f158570e0ffe47b3378a6bd8042f44b32e5d7dcd516fce488937ebcb"
   }
  ]
 }

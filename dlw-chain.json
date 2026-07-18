@@ -6,8 +6,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 1436,
- "head": "0ccce2307b1ea2ffcf8b877fe69f791f3af2c29e9b8fae7e6b62af8062050a46",
+ "count": 1437,
+ "head": "c61abd3129f314e318a29fb1c60b426d7a31ba1cbcea5183060b4c019b1d930a",
  "links": [
   {
    "i": 0,
@@ -10060,6 +10060,13 @@
    "seal": "57e465ab6c2428e213ea612819b7f8bcec429c7091d7641d6834c5ac86b54921",
    "prev": "cf505c5b3ec83c0b24bbb579ee18044219e0838797a9f73911fd65c73f541d08",
    "link": "0ccce2307b1ea2ffcf8b877fe69f791f3af2c29e9b8fae7e6b62af8062050a46"
+  },
+  {
+   "i": 1436,
+   "slug": "the-boson-floor",
+   "seal": "2379f3741e50d712bd78edeca642b1591b673f87b0116cabea8569a1b423ff89",
+   "prev": "0ccce2307b1ea2ffcf8b877fe69f791f3af2c29e9b8fae7e6b62af8062050a46",
+   "link": "c61abd3129f314e318a29fb1c60b426d7a31ba1cbcea5183060b4c019b1d930a"
   }
  ]
 }

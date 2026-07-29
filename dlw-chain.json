@@ -7,8 +7,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 2028,
- "head": "58f75ea3c16dd15335248556958063e570baa7539297979cbe1e5c5c960c2ca4",
+ "count": 2038,
+ "head": "ea06edf4c4b1391d36b630358648f403794fe6cb442cfe624278de01747a5d25",
  "links": [
   {
    "i": 0,
@@ -14205,6 +14205,76 @@
    "seal": "b464973803bac79842733be8935a0b938598198fa4b2333243acafcd794fafed",
    "prev": "bdf2b5b55c23d4187538a3a56f5c5a75a8a4c76ce51eb1d9eae07b65c244b4c4",
    "link": "58f75ea3c16dd15335248556958063e570baa7539297979cbe1e5c5c960c2ca4"
+  },
+  {
+   "i": 2028,
+   "slug": "the-strongly-connected",
+   "seal": "2c1629bca1b0aa00d7f5629ae029c908635e84f000726ef80f9397d82aab1541",
+   "prev": "58f75ea3c16dd15335248556958063e570baa7539297979cbe1e5c5c960c2ca4",
+   "link": "129f93f2bdc6bdf891efa4213076ccfd1653dfbda0b30f28e6d0f49d5b267abe"
+  },
+  {
+   "i": 2029,
+   "slug": "the-bellman-ford",
+   "seal": "30e468e7edd48db423f21a124e041c97fb9a387dc1fa96d5d647b72c45f08778",
+   "prev": "129f93f2bdc6bdf891efa4213076ccfd1653dfbda0b30f28e6d0f49d5b267abe",
+   "link": "fa6e8898bcf34535e16e31b16419044759965336704df96f86730c926615178b"
+  },
+  {
+   "i": 2030,
+   "slug": "the-graph-coloring",
+   "seal": "c99f94fef5ea42f80d4ae91e91e9e35277d8f5fb103068312dd45ff9272fe9e1",
+   "prev": "fa6e8898bcf34535e16e31b16419044759965336704df96f86730c926615178b",
+   "link": "ecf336282f4b70ca24da0af2103aba04e2f3987298a23b28da6918f97504333b"
+  },
+  {
+   "i": 2031,
+   "slug": "the-eulerian-path",
+   "seal": "c6a41206b716997eb16d30174d87cb6fd41f364e53c28ecaf177ee54bb2c5044",
+   "prev": "ecf336282f4b70ca24da0af2103aba04e2f3987298a23b28da6918f97504333b",
+   "link": "c17aa11c59876c174bc862061747d28475144a70ed75bc67fbc0b1c605b0abed"
+  },
+  {
+   "i": 2032,
+   "slug": "the-bipartite-matching",
+   "seal": "33f3a83c704f315be6402cfb87aaaabdc73663127c06207476d3930c33018407",
+   "prev": "c17aa11c59876c174bc862061747d28475144a70ed75bc67fbc0b1c605b0abed",
+   "link": "6faf28d0beb99c2db5348fd3d0bc98e405f4d3d4261406a21c0ea325ddd4153a"
+  },
+  {
+   "i": 2033,
+   "slug": "the-depth-first",
+   "seal": "fa41cef9d6ce995dba007f5607d09d1a1aaa7373b597619a7da0b3a1d8608919",
+   "prev": "6faf28d0beb99c2db5348fd3d0bc98e405f4d3d4261406a21c0ea325ddd4153a",
+   "link": "148de5680e124a29519a2270baa50239092788689f2188c819dd41c081e8512f"
+  },
+  {
+   "i": 2034,
+   "slug": "the-articulation-point",
+   "seal": "b1961996e663a8995870bdabde5d2e557a6e474503c8d3b71e54fcbc50db3f02",
+   "prev": "148de5680e124a29519a2270baa50239092788689f2188c819dd41c081e8512f",
+   "link": "ce7d6b79ef8db928459970ea83f5d2623f2e5aea7c65ac679f386db94daa4f92"
+  },
+  {
+   "i": 2035,
+   "slug": "the-power-of-two",
+   "seal": "c55900a454207f24f7283a5df90bda08fe823def8972e886b8e1f9b608e04719",
+   "prev": "ce7d6b79ef8db928459970ea83f5d2623f2e5aea7c65ac679f386db94daa4f92",
+   "link": "5aae06550a7003fa4f76a4cfe8397b50b0e98ed8b94c0c5ce8aee65b6569a442"
+  },
+  {
+   "i": 2036,
+   "slug": "the-binary-representation",
+   "seal": "acf06baa16436d7e164d9cbce25b580ea9fb0e9f0af279a4ba08543c410ba0d7",
+   "prev": "5aae06550a7003fa4f76a4cfe8397b50b0e98ed8b94c0c5ce8aee65b6569a442",
+   "link": "9a1d19deb77a4c1b37d065f97913920811f8357b2cfe5e9fb300ca63b6152dd5"
+  },
+  {
+   "i": 2037,
+   "slug": "the-logarithm",
+   "seal": "3610a97375b2512c924ecb01a200a20722a6b28bd40daf6f2171f29dcd2395d5",
+   "prev": "9a1d19deb77a4c1b37d065f97913920811f8357b2cfe5e9fb300ca63b6152dd5",
+   "link": "ea06edf4c4b1391d36b630358648f403794fe6cb442cfe624278de01747a5d25"
   }
  ]
 }

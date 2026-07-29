@@ -7,8 +7,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 2042,
- "head": "fa83e0f6d51f00175e042d45e42d5e1e569b21780ca5a124601c582ebccd2108",
+ "count": 2048,
+ "head": "f24002f27c1d40f6c1657049c1a6abe39c283355ae3c6cb32c9e17bccde3ce22",
  "links": [
   {
    "i": 0,
@@ -14303,6 +14303,48 @@
    "seal": "d4641d84e4dc642d92dd83d878caca993cd4f9c3e9666204ec65f89f2c61fe5b",
    "prev": "05c9ac39c588d7f68089b6636391b079319e8532f8cab43c2405a0e564ef6f04",
    "link": "fa83e0f6d51f00175e042d45e42d5e1e569b21780ca5a124601c582ebccd2108"
+  },
+  {
+   "i": 2042,
+   "slug": "photonic",
+   "seal": "48b77b841ded0ebf5a454fd49ed83b0d1f296f2510700bc9358b57979da53ab7",
+   "prev": "fa83e0f6d51f00175e042d45e42d5e1e569b21780ca5a124601c582ebccd2108",
+   "link": "db07c13e499b993b6ef203258c1217d7af94575f85e4be783b7daea6e96bd096"
+  },
+  {
+   "i": 2043,
+   "slug": "chakra",
+   "seal": "40bfc2e7d091603d672af38071abe7ab130911cab9d9480acb5179f51cae1bc6",
+   "prev": "db07c13e499b993b6ef203258c1217d7af94575f85e4be783b7daea6e96bd096",
+   "link": "97e5ac0aea6a3098da4985cf27d403a9258b69b4431783502f84329e54c607b7"
+  },
+  {
+   "i": 2044,
+   "slug": "fusion",
+   "seal": "e45431f581da46ca0ea960ae5e4f203dfebd1533f7c6be7df07da89d8a44cf0f",
+   "prev": "97e5ac0aea6a3098da4985cf27d403a9258b69b4431783502f84329e54c607b7",
+   "link": "f53dc6804e34e1a9146fae0b4020093eed6c2780c24fcfc825c79ebab2be4e96"
+  },
+  {
+   "i": 2045,
+   "slug": "lineage",
+   "seal": "54a9566c19691672e2bc9307b7f2bfdf43aa36da418ccb8c1808eb5e6eddaef5",
+   "prev": "f53dc6804e34e1a9146fae0b4020093eed6c2780c24fcfc825c79ebab2be4e96",
+   "link": "2cd6812ec6cff3bdadedd5dbf59e79a62acaba91f85525461ec2cf6add69b1e4"
+  },
+  {
+   "i": 2046,
+   "slug": "mnemosyne",
+   "seal": "8f7ca5db982996ce4b49fdc72867afb8a8fc34ac509cfd8745356c6cfdd907e6",
+   "prev": "2cd6812ec6cff3bdadedd5dbf59e79a62acaba91f85525461ec2cf6add69b1e4",
+   "link": "b5a61379c21ab5bd5cb2c0428275d34803f8687c40c4045f126a924ae6fd1e8d"
+  },
+  {
+   "i": 2047,
+   "slug": "tools",
+   "seal": "572610baa9de08529daddc49eae04c20ef9caf5b01e22db6e5394235de65e157",
+   "prev": "b5a61379c21ab5bd5cb2c0428275d34803f8687c40c4045f126a924ae6fd1e8d",
+   "link": "f24002f27c1d40f6c1657049c1a6abe39c283355ae3c6cb32c9e17bccde3ce22"
   }
  ]
 }

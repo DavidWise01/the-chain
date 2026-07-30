@@ -1,0 +1,84 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="author" content="David Lee Wise / ROOT0 / TriPod LLC">
+<title>THE 1024 FOLD · Merkle over the 2048 · UD0</title>
+<style>
+:root{--void:#0f1024;--ground:#141a3e;--edge:#2c3a7e;--ink:#eaf0ff;--dim:#a9b6e6;--faint:#6d7bbe;
+--cy:#5affd0;--cy2:#38d6e0;--vio:#9a7bff;--gold:#ffcf5a;--mono:ui-monospace,"Cascadia Code","SF Mono",Menlo,Consolas,monospace;--sans:ui-sans-serif,system-ui,"Segoe UI",Roboto,sans-serif}
+*{box-sizing:border-box}
+body{margin:0;color:var(--ink);font-family:var(--sans);line-height:1.6;background:radial-gradient(120% 90% at 50% -8%,#1b2a5c 0%,var(--ground) 48%,var(--void) 100%);min-height:100vh}
+.wrap{max-width:900px;margin:0 auto;padding:52px 18px 90px}
+.eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--cy);text-shadow:0 0 14px rgba(90,255,208,.4)}
+h1{font-family:var(--mono);font-weight:700;font-size:clamp(1.7rem,5.5vw,2.7rem);margin:12px 0 4px;letter-spacing:.02em}
+h1 b{color:var(--cy)}
+.lede{color:var(--dim);max-width:70ch;font-size:14.5px}
+.rungtag{display:inline-flex;gap:8px;align-items:center;font-family:var(--mono);font-size:11px;letter-spacing:.1em;color:var(--cy);border:1px solid var(--cy2);border-radius:20px;padding:5px 14px;margin-top:10px}
+.root{margin:26px 0 6px;padding:18px;border:1px solid var(--edge);border-radius:14px;background:linear-gradient(180deg,rgba(30,42,92,.5),rgba(20,26,62,.4))}
+.root .k{font-family:var(--mono);font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--faint)}
+.root .v{font-family:var(--mono);font-size:clamp(11px,2.4vw,15px);color:var(--gold);word-break:break-all;margin-top:5px;text-shadow:0 0 12px rgba(255,207,90,.35)}
+.root .sub{font-size:12.5px;color:var(--dim);margin-top:8px}
+.ladder{margin:22px 0 0;display:flex;flex-direction:column;gap:3px}
+.lv{display:grid;grid-template-columns:78px 1fr auto;align-items:center;gap:12px;padding:5px 8px;border-radius:8px;cursor:pointer;transition:.12s}
+.lv:hover{background:rgba(90,255,208,.06)}
+.lv.on{background:rgba(90,255,208,.12);outline:1px solid var(--cy2)}
+.lv .c{font-family:var(--mono);font-weight:700;text-align:right;font-variant-numeric:tabular-nums;color:var(--dim)}
+.lv.f .c{color:var(--cy);text-shadow:0 0 12px var(--cy)}
+.lv .bar{height:12px;border-radius:6px;background:linear-gradient(90deg,var(--cy2),var(--vio));opacity:.8}
+.lv.leaf .bar{background:linear-gradient(90deg,var(--gold),var(--cy2))}
+.lv.f .bar{box-shadow:0 0 14px var(--cy)}
+.lv .p{font-family:var(--mono);font-size:10px;color:var(--faint);white-space:nowrap}
+.spot{margin-top:8px;font-family:var(--mono);font-size:12px;color:var(--dim);min-height:2.4em;border-left:2px solid var(--cy2);padding-left:12px}
+.spot b{color:var(--cy)}
+.proof{margin-top:26px;padding:16px;border:1px dashed var(--cy2);border-radius:12px;background:rgba(56,214,224,.05)}
+.proof h3{margin:0 0 4px;font-family:var(--mono);font-size:13px;letter-spacing:.06em;color:var(--cy)}
+.proof .path{font-family:var(--mono);font-size:11px;color:var(--dim);line-height:1.9;word-break:break-all}
+.proof .ok{color:var(--cy);font-weight:700}
+.note{margin-top:24px;font-size:13px;color:var(--dim);border-left:2px solid var(--gold);padding:4px 0 4px 14px;max-width:76ch}
+.note b{color:var(--ink)}
+footer{margin-top:30px;font-family:var(--mono);font-size:11px;color:var(--faint);border-top:1px solid var(--edge);padding-top:16px}
+footer a{color:var(--cy);text-decoration:none}
+</style></head><body><div class="wrap">
+<div class="eyebrow">the fold · 2^10 · the tower's proof spine</div>
+<h1>THE 1024 FOLD<b>.</b></h1>
+<p class="lede">The 2048 sealed spheres are leaves. Pair them, hash each pair — 2048 folds to <b style="color:var(--cy)">1024</b>. Keep folding: 512, 256, 128 … down to a single <b style="color:var(--gold)">Merkle root</b> that commits to every sphere at once. The 1024 rung is the <b>first fold</b>.</p>
+<span class="rungtag">the 1024 rung · first Merkle level over the 2048 seals</span>
+
+<div class="root">
+  <div class="k">Merkle root · one hash over all 2048 sealed spheres</div>
+  <div class="v" id="root">c86dcdef22ced4ecf3dd14f0cc2d6caf5a291615207d7e176dca83a6d6a43167</div>
+  <div class="sub">change one seal anywhere and this root changes — a single commitment to the whole tower. Anchor genesis <span style="color:var(--vio)" id="gen">64f5ac0e99f0190e…</span> · chain head <span style="color:var(--vio)" id="head">f24002f27c1d40f6…</span></div>
+</div>
+
+<div class="ladder" id="ladder"></div>
+<div class="spot" id="spot">click a level — each is a power of two, the tower's rungs seen as Merkle folds</div>
+
+<div class="proof">
+  <h3>◆ one proof path · leaf → root in log₂(2048) = 11 folds</h3>
+  <div class="path" id="proof"></div>
+</div>
+
+<p class="note"><b>Computed, not claimed.</b> This is a real binary Merkle tree over the exact <b id="n2">2048</b> seals in <a href="dlw-chain.json" style="color:var(--cy)">dlw-chain.json</a> — node = SHA-256(left ‖ right). The 1024 fold, every level, and the root are recomputable from the chain with no other input; the proof path above was verified in-build to reconstruct the root. The intermediate powers of the tower (1024·512·256·128·32·16·4) are exactly the levels of this fold — the ladder <i>is</i> the tree, and the root is the tower proving itself in one hash.</p>
+
+<footer>David Lee Wise · ROOT0 · TriPod LLC · CC-BY-ND-4.0 · <a href="https://davidwise01.github.io/ud0/">UD0</a> · leaf order = the .dlw chain</footer>
+</div>
+<script>
+var P={"N": 2048, "root": "c86dcdef22ced4ecf3dd14f0cc2d6caf5a291615207d7e176dca83a6d6a43167", "depth": 11, "levels": [{"n": 2048, "pow": 11, "sample": "0a18e4afb427"}, {"n": 1024, "pow": 10, "sample": "69e78adc7418"}, {"n": 512, "pow": 9, "sample": "bbbb72d15362"}, {"n": 256, "pow": 8, "sample": "911edddea171"}, {"n": 128, "pow": 7, "sample": "1f55abdc4342"}, {"n": 64, "pow": 6, "sample": "f5167c33f301"}, {"n": 32, "pow": 5, "sample": "97fa406a31ca"}, {"n": 16, "pow": 4, "sample": "d1b8df3aa065"}, {"n": 8, "pow": 3, "sample": "0bc586bbdef7"}, {"n": 4, "pow": 2, "sample": "2020dbe65028"}, {"n": 2, "pow": 1, "sample": "1f41e3ff5750"}, {"n": 1, "pow": 0, "sample": "c86dcdef22ce"}], "fold1024_first": ["69e78adc7418", "c17dc9f31a66", "355ccad561f2", "c6fa98cd060e", "8be1bd0c6dfb", "751727ea1416", "e54d0440ce35", "626d036f216c"], "fold1024_last": ["5b0da5f0b625", "41500356ad93", "bf3feab1831d", "4ea2640fbe13"], "leafSlug": "the-logarithm", "leafSeal": "3610a97375b2512c", "proof": [{"lvl": 0, "count": 2048, "sib": "acf06baa16436d7e", "side": "L"}, {"lvl": 1, "count": 1024, "sib": "561a86bf89955bc0", "side": "R"}, {"lvl": 2, "count": 512, "sib": "9227040f31825478", "side": "L"}, {"lvl": 3, "count": 256, "sib": "64a0a6721948ea91", "side": "R"}, {"lvl": 4, "count": 128, "sib": "84d95ee6d5dcc1a2", "side": "L"}, {"lvl": 5, "count": 64, "sib": "89d892ef07275507", "side": "L"}, {"lvl": 6, "count": 32, "sib": "8b2948c59dd13eda", "side": "L"}, {"lvl": 7, "count": 16, "sib": "c5fe8917a9805822", "side": "L"}, {"lvl": 8, "count": 8, "sib": "6ac6866a99906b7d", "side": "L"}, {"lvl": 9, "count": 4, "sib": "ccffaa3829f1c456", "side": "L"}, {"lvl": 10, "count": 2, "sib": "1f41e3ff575069e1", "side": "L"}], "anchor": "ROOT0-DLW-CHAIN · genesis · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0", "genesis": "64f5ac0e99f0190e", "head": "f24002f27c1d40f6"};
+document.getElementById('root').textContent=P.root;
+document.getElementById('n2').textContent=P.N;
+var lad=document.getElementById('ladder'),spot=document.getElementById('spot');
+var maxN=P.levels[0].n;
+P.levels.forEach(function(L,idx){
+  var row=document.createElement('div');row.className='lv'+(idx===0?' leaf':'')+(L.n===1024?' f':'');
+  var w=Math.max(2,Math.sqrt(L.n/maxN)*100);
+  row.innerHTML='<div class="c">'+L.n.toLocaleString()+'</div><div class="bar" style="width:'+w+'%"></div><div class="p">2^'+L.pow+(L.n===1024?' · THE FOLD':(L.n===1?' · ROOT':(idx===0?' · leaves':'')))+'</div>';
+  row.addEventListener('click',function(){[].forEach.call(lad.children,function(x){x.classList.remove('on');});row.classList.add('on');
+    spot.innerHTML='<b>level 2^'+L.pow+'</b> — '+L.n.toLocaleString()+' node'+(L.n>1?'s':'')+', each a SHA-256 of two below · sample '+L.sample+'…'+(L.n===1024?' &nbsp;<b>← this is the 1024 rung: 2048 leaves paired into 1024</b>':(L.n===1?' &nbsp;<b>← the single root over all 2048</b>':''));});
+  lad.appendChild(row);
+});
+// proof path
+var pv=document.getElementById('proof');
+var html='leaf <b class="ok">'+P.leafSlug+'</b> (seal '+P.leafSeal+'…)<br>';
+P.proof.forEach(function(s){html+='&nbsp;&nbsp;fold '+(s.lvl+1)+' · '+(s.count.toLocaleString())+'→'+((s.count/2)|0).toLocaleString()+' · sibling '+s.side+' '+s.sib+'…<br>';});
+html+='→ <span class="ok">reconstructs the root ✓</span> (verified in build)';
+pv.innerHTML=html;
+</script></body></html>

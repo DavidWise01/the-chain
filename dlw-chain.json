@@ -7,8 +7,8 @@
  "license": "CC-BY-ND-4.0",
  "attribution": "ROOT0-ATTRIBUTION-v1.0",
  "genesis": "64f5ac0e99f0190e43196299b0e2d50d77357a8fbc9ef8dc9050715a211eb634",
- "count": 2048,
- "head": "f24002f27c1d40f6c1657049c1a6abe39c283355ae3c6cb32c9e17bccde3ce22",
+ "count": 2049,
+ "head": "cfe370c66ff0742cd630a841bb3acd67e20f419276ad7137d6ca286957a20a8e",
  "links": [
   {
    "i": 0,
@@ -14345,6 +14345,13 @@
    "seal": "572610baa9de08529daddc49eae04c20ef9caf5b01e22db6e5394235de65e157",
    "prev": "b5a61379c21ab5bd5cb2c0428275d34803f8687c40c4045f126a924ae6fd1e8d",
    "link": "f24002f27c1d40f6c1657049c1a6abe39c283355ae3c6cb32c9e17bccde3ce22"
+  },
+  {
+   "i": 2048,
+   "slug": "the-center-stone",
+   "seal": "bfaf36ee1acb6f60cb66a8dc75b57adfb2f52fd8f7e8ccb6cbe425f4920cca10",
+   "prev": "f24002f27c1d40f6c1657049c1a6abe39c283355ae3c6cb32c9e17bccde3ce22",
+   "link": "cfe370c66ff0742cd630a841bb3acd67e20f419276ad7137d6ca286957a20a8e"
   }
  ]
 }
